@@ -125,21 +125,20 @@
                 <p id="w-node-e5765f78ba6c-5f78ba66" class="p-short text-center-mobile"><?php _e( 'Subscribe for the latest Blocknet updates and news', 'blocknet' ); ?></p>
             </div>
             <div id="w-node-e5765f78ba6e-5f78ba66" class="newsletter-form-wrap">
-                <div class="form-block w-form">
-                    <form id="wf-form-newsletter-form" name="wf-form-newsletter-form" data-name="newsletter form" action="https://blocknet.us16.list-manage.com/subscribe/post?u=5d0a376e982034a2ddd6edb98&amp;id=6ae2c503df" method="post" class="newsletter-form">
-                        <input type="email" class="text-input newsletter-email w-input" maxlength="256" name="Email" data-name="Email" placeholder="Email address" id="email" required="">
-                        <input type="submit" value="Submit" data-wait="Please wait..." class="button subscribe w-button">
+               <div class="w-embed">
+                    <form id="mc-embedded-subscribe-form" action="https://blocknet.us16.list-manage.com/subscribe/post?u=5d0a376e982034a2ddd6edb98&amp;id=6ae2c503df" method="post" name="mc-embedded-subscribe-form" class="inline-form validate" target="_blank" novalidate="">
+                        <div class="form-inner newsletter-form">
+                            <div>
+                                <input id="mce-EMAIL" class="text-input newsletter-email" type="email" value="" name="EMAIL" placeholder="Email Address" required="">
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                    <input type="text" name="b_5d0a376e982034a2ddd6edb98_6ae2c503df" tabindex="-1" value="">
+                                </div>
+                            </div>
+                            <div>
+                                <button id="mc-embedded-subscribe" type="submit" class="button subscribe" name="subscribe"></button>
+                            </div>
+                        </div>
                     </form>
-                    <div class="w-form-done">
-                        <div>
-                            <?php _e( 'Thank you for joining the Blocknet newsletter.', 'blocknet' ); ?>
-                        </div>
-                    </div>
-                    <div class="w-form-fail">
-                        <div>
-                            <?php _e( 'Something went wrong while submitting the form.', 'blocknet' ); ?>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -153,54 +152,51 @@
             <h5 id="w-node-5181204afa34-204afa2d"><?php _e( 'Developers', 'blocknet' ); ?></h5>
             <h5 id="w-node-5181204afa36-204afa2d"><?php _e( 'Exchanges', 'blocknet' ); ?></h5>
             <div id="w-node-5181204afa38-204afa2d" class="footer-links-list">
-                <a href="blocknet-protocol.html" class="footer-link"><?php _e( 'Protocol', 'blocknet' ); ?></a>
-                <a href="built-on-blocknet.html" class="footer-link"><?php _e( 'Solutions', 'blocknet' ); ?></a>
-                <a href="build-with-blocknet.html" class="footer-link"><?php _e( 'Developers', 'blocknet' ); ?></a>
-                <a href="downloads.html" class="footer-link"><?php _e( 'Downloads', 'blocknet' ); ?></a>
-                <a href="contribute-to-blocknet.html" class="footer-link"><?php _e( 'Community', 'blocknet' ); ?></a>
-                <a href="roadmap.html" class="footer-link"><?php _e( 'Roadmap', 'blocknet' ); ?></a>
-                <a href="blog.html" class="footer-link"><?php _e( 'News', 'blocknet' ); ?></a>
+                <a href="../blocknet-protocol.html" class="footer-link"><?php _e( 'Protocol', 'blocknet' ); ?></a>
+                <a href="../built-on-blocknet.html" class="footer-link"><?php _e( 'Solutions', 'blocknet' ); ?></a>
+                <a href="../build-with-blocknet.html" class="footer-link"><?php _e( 'Developers', 'blocknet' ); ?></a>
+                <a href="../downloads.html" class="footer-link"><?php _e( 'Downloads', 'blocknet' ); ?></a>
+                <a href="../contribute-to-blocknet.html" class="footer-link"><?php _e( 'Community', 'blocknet' ); ?></a>
+                <a href="../roadmap.html" class="footer-link"><?php _e( 'Roadmap', 'blocknet' ); ?></a>
+                <a href="../blog.html" class="footer-link"><?php _e( 'Blog', 'blocknet' ); ?></a>
             </div>
             <div id="w-node-5181204afa47-204afa2d" class="footer-links-list">
-                <a href="#" class="footer-link"><?php _e( 'Documentation Portal', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'Getting Started Guides', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'Service Nodes Guide', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'Staking Wallet Guide', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'Governance', 'blocknet' ); ?></a>
+                <a href="https://docs.blocknet.co" target="_blank" class="footer-link"><?php _e( 'Documentation Portal', 'blocknet' ); ?></a>
+                <a href="https://docs.blocknet.co/service-nodes/introduction/" target="_blank" class="footer-link"><?php _e( 'Service Nodes Guide', 'blocknet' ); ?></a>
+                <a href="https://docs.blocknet.co/wallet/setup/" target="_blank" class="footer-link"><?php _e( 'Staking Wallet Guide', 'blocknet' ); ?></a>
+                <a href="https://docs.blocknet.co/governance/introduction/" target="_blank" class="footer-link"><?php _e( 'Governance', 'blocknet' ); ?></a>
                 <a href="brand-resources.html" class="footer-link"><?php _e( 'Brand Resources', 'blocknet' ); ?></a>
             </div>
             <div id="w-node-5181204afa54-204afa2d" class="footer-links-list">
-                <a href="#" class="footer-link"><?php _e( 'Getting Started Guides', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'GitHub', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'API Docs', 'blocknet' ); ?></a>
+                <a href="https://api.blocknet.co/#getting-started" target="_blank" class="footer-link"><?php _e( 'Getting Started Guides', 'blocknet' ); ?></a>
+                <a href="https://github.com/blocknetdx/" target="_blank" class="footer-link"><?php _e( 'GitHub', 'blocknet' ); ?></a>
+                <a href="https://api.blocknet.co" target="_blank" class="footer-link"><?php _e( 'API Docs', 'blocknet' ); ?></a>
             </div>
             <div id="w-node-5181204afa5b-204afa2d" class="footer-links-list">
-                <a href="#" class="footer-link"><?php _e( 'Block DX', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'Bittrex', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'DigiFinex', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'VCC Exchange', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'Finexbox', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'UpBit', 'blocknet' ); ?></a>
-                <a href="#" class="footer-link"><?php _e( 'Altilly', 'blocknet' ); ?></a>
+                <a href="https://blockdx.com" target="_blank" class="footer-link"><?php _e( 'Block DX', 'blocknet' ); ?></a>
+                <a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link"><?php _e( 'Bittrex', 'blocknet' ); ?></a>
+                <a href="https://www.digifinex.vip/en-ww/trade/BTC/BLOCK" target="_blank" class="footer-link"><?php _e( 'DigiFinex', 'blocknet' ); ?></a>
+                <a href="https://vcc.exchange/exchange/basic?currency=btc&amp;coin=block" target="_blank" class="footer-link"><?php _e( 'VCC Exchange', 'blocknet' ); ?></a>
+                <a href="https://www.finexbox.com/market/pair/BLOCK-BTC.html" target="_blank" class="footer-link"><?php _e( 'Finexbox', 'blocknet' ); ?></a>
+                <a href="https://stakecube.net/app/exchange/BLOCK_BTC" target="_blank" class="footer-link"><?php _e( 'Stakecube', 'blocknet' ); ?></a>
+                <a href="https://www.altilly.com/market/BLOCK_BTC" target="_blank" class="footer-link"><?php _e( 'Altilly', 'blocknet' ); ?></a>
             </div>
         </div>
         <div class="w-layout-grid footer-bottom-grid">
-            <a id="w-node-5181204afa6c-204afa2d" href="index.html" class="logo-footer-link w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blocknet-logo-white.svg" height="30" alt=""></a>
+            <a id="w-node-5181204afa6c-204afa2d" href="https://blocknet.co" class="logo-footer-link w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blocknet-logo-white.svg" height="30" alt=""></a>
             <div id="w-node-5181204afa6e-204afa2d" class="footer-legal-links-wrap">
                 <a href="#" class="footer-legal-link"><?php _e( '© Copyright 2020', 'blocknet' ); ?></a>
-                <a href="#" class="footer-legal-link"><?php _e( 'Terms of use', 'blocknet' ); ?></a>
-                <a href="#" class="footer-legal-link"><?php _e( 'Privacy policy', 'blocknet' ); ?></a>
             </div>
             <div id="w-node-5181204afa75-204afa2d" class="social-media-icons-wrap">
-                <a href="#" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-telegram.svg" width="30" alt="" class="social-media-icon"></a>
-                <a href="#" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-discord.svg" width="30" alt="" class="social-media-icon"></a>
-                <a href="#" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-twitter.svg" width="30" alt="" class="social-media-icon"></a>
-                <a href="#" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-reddit.svg" width="30" alt="" class="social-media-icon"></a>
-                <a href="#" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-facebook.svg" width="30" alt="" class="social-media-icon"></a>
-                <a href="#" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-linkedin.svg" width="30" alt="" class="social-media-icon"></a>
-                <a href="#" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-github.svg" width="30" alt="" class="social-media-icon"></a>
-                <a href="#" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-youtube.svg" width="30" alt="" class="social-media-icon"></a>
-                <a href="#" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-instagram.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="https://t.me/Blocknet" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-telegram.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="https://discord.gg/2e6s7H8" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-discord.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="https://twitter.com/The_Blocknet" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-twitter.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="https://www.reddit.com/r/theblocknet/" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-reddit.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="https://en-gb.facebook.com/theblocknet/" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-facebook.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="https://www.linkedin.com/company/blocknet/" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-linkedin.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="http://github.com/blocknetdx/" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-github.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="https://www.youtube.com/channel/UCCDBoR9fHb21bLH7FGvFrQg/videos" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-youtube.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="https://www.instagram.com/the_blocknet/" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-instagram.svg" width="30" alt="" class="social-media-icon"></a>
             </div>
         </div>
     </div>

@@ -1529,9 +1529,9 @@ figcaption {
     display: flex;
     overflow: hidden;
     width: 31%;
-    margin-right: 10px;
-    margin-bottom: 40px;
-    margin-left: 10px;
+    margin-right: 10px !important;
+    margin-bottom: 40px !important;
+    margin-left: 10px !important;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -2815,6 +2815,7 @@ figcaption {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+/*    display: none;*/
 }
 
 .blog-post-content {
@@ -2940,6 +2941,7 @@ figcaption {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
 }
+
 
 .news-items-wrapper a {
     color: #000529;
@@ -6207,6 +6209,12 @@ figcaption {
     align-self: stretch;
 }
 
+
+.content-narrow {
+    max-width: 66%;
+    margin: auto;
+}
+
 @media screen and (max-width: 991px) {
     #w-node-9a4d2a7a5e28-7ec5c14f {
         -ms-grid-column-span: 1;
@@ -6494,6 +6502,11 @@ figcaption {
 }
 
 @media screen and (max-width: 767px) {
+    
+    .content-narrow {
+        max-width: 100% !important;
+        margin: auto;
+    }
     #w-node-5181204afa34-204afa2d {
         -ms-grid-column: 1;
         grid-column-start: 1;
@@ -6839,10 +6852,6 @@ figcaption {
     margin-top: 10px;
 }
 
-.content-narrow {
-    max-width: 66%;
-    margin: auto;
-}
 
 @font-face {
     font-family: 'Materialicons';
