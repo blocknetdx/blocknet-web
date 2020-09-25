@@ -1669,6 +1669,11 @@ figcaption {
   box-shadow: 0 14px 26px 0 rgba(0, 0, 0, 0.1);
 }
 
+.screen-img-grab.wallet {
+  margin-top: 80px;
+}
+
+/*
 .downloads-grid {
   min-height: 580px;
   padding: 60px;
@@ -1699,6 +1704,54 @@ figcaption {
   -ms-grid-rows: auto auto auto auto auto;
   grid-template-rows: auto auto auto auto auto;
 }
+*/
+
+.downloads-grid {
+  min-height: 580px;
+  padding: 60px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: start;
+  -ms-flex-align: start;
+  align-items: start;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.download-buttons-grid {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-right: 30px;
+  padding-left: 30px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  justify-items: center;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  -webkit-align-content: space-between;
+  -ms-flex-line-pack: justify;
+  align-content: space-between;
+  -ms-grid-rows: auto auto auto auto auto;
+  grid-template-rows: auto auto auto auto auto;
+}
+
 
 .download-buttons-grid.hidden {
   display: none;
@@ -3028,6 +3081,22 @@ figcaption {
   color: #000529;
 }
 
+.download-item-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 30px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
 @media screen and (min-width: 1280px) {
   .link.blue.download {
     background-image: url('../images/save-24px-blue.svg');
@@ -3865,6 +3934,12 @@ figcaption {
     -ms-flex-direction: column-reverse;
     flex-direction: column-reverse;
   }
+    .download-item-wrap {
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -3980,9 +4055,15 @@ figcaption {
   .product-slider-left-arrow {
     right: 60px;
   }
+/*
   .download-buttons-grid {
     margin-right: 60px;
     margin-left: 60px;
+  }
+*/
+    .download-buttons-grid {
+    margin-right: 0px;
+    margin-left: 0px;
   }
   .whitepapers-grid {
     grid-column-gap: 40px;
@@ -4303,6 +4384,7 @@ figcaption {
   .screen-img-grab {
     box-shadow: none;
   }
+/*
   .download-buttons-grid {
     margin-right: 0px;
     margin-left: 0px;
@@ -4314,6 +4396,28 @@ figcaption {
     grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto;
   }
   .downloads-platform {
+    font-size: 18px;
+  }
+*/
+    .download-buttons-grid {
+    margin-right: 0px;
+    margin-left: 0px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-align-content: space-between;
+    -ms-flex-line-pack: justify;
+    align-content: space-between;
+    grid-column-gap: 30px;
+    grid-row-gap: 11px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto;
+  }
+  .downloads-platform {
+    margin-bottom: 10px;
     font-size: 18px;
   }
   .whitepapers-grid {
@@ -4424,6 +4528,14 @@ figcaption {
   .hero-headline-small {
     font-size: 44px;
     line-height: 1em;
+  }
+    .download-item-wrap {
+    margin-bottom: 10px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
 }
 
