@@ -179,7 +179,7 @@ if ( ! function_exists( 'blocknet_blog_enqueue_scripts' ) ) :
     wp_enqueue_style( 'blocknet-webflow', get_template_directory_uri() . '/css/webflow.css', false, null, 'all');
 
     wp_deregister_style( 'blocknet-blocknetwebsiteprojectwebflow' );
-    wp_enqueue_style( 'blocknet-blocknetwebsiteprojectwebflow', get_template_directory_uri() . '/css/blocknet-website-project.webflow.css', false, null, 'all');
+    wp_enqueue_style( 'blocknet-blocknetwebsiteprojectwebflow', get_template_directory_uri() . '/css/blocknet-website-project.webflow.css?v1.0.1', false, null, 'all');
 
     wp_deregister_style( 'blocknet-style' );
     wp_enqueue_style( 'blocknet-style', get_bloginfo('stylesheet_url'), false, null, 'all');
