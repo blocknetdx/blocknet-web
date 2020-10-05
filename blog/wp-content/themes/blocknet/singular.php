@@ -190,7 +190,6 @@
                 <a href="https://blockdx.com" target="_blank" class="footer-link"><?php _e( 'Block DX', 'blocknet' ); ?></a>
                 <a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link"><?php _e( 'Bittrex', 'blocknet' ); ?></a>
                 <a href="https://www.digifinex.vip/en-ww/trade/BTC/BLOCK" target="_blank" class="footer-link"><?php _e( 'DigiFinex', 'blocknet' ); ?></a>
-                <a href="https://vcc.exchange/exchange/basic?currency=btc&amp;coin=block" target="_blank" class="footer-link"><?php _e( 'VCC Exchange', 'blocknet' ); ?></a>
                 <a href="https://www.finexbox.com/market/pair/BLOCK-BTC.html" target="_blank" class="footer-link"><?php _e( 'Finexbox', 'blocknet' ); ?></a>
                 <a href="https://stakecube.net/app/exchange/BLOCK_BTC" target="_blank" class="footer-link"><?php _e( 'Stakecube', 'blocknet' ); ?></a>
                 <a href="https://www.altilly.com/market/BLOCK_BTC" target="_blank" class="footer-link"><?php _e( 'Altilly', 'blocknet' ); ?></a>
