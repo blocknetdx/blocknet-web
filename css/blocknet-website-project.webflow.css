@@ -3134,6 +3134,13 @@ figcaption {
   text-align: center;
 }
 
+.downloads-extra-links-wrap {
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    text-align: left;
+}
+
 @media screen and (min-width: 1280px) {
   .link.blue.download {
     background-image: url('../images/save-24px-blue.svg');
@@ -3976,6 +3983,9 @@ figcaption {
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
     justify-content: space-between;
+  }
+  .downloads-extra-links-wrap {
+        text-align: center;
   }
 }
 
