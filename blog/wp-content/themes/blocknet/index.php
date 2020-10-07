@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <div data-animation="default" class="navbar w-nav" data-easing2="ease-in-out" data-easing="ease-in-out" data-collapse="medium" data-w-id="d35dffeb-0076-0599-6e1c-5bcf354f093e" role="banner" data-duration="400" data-doc-height="1">
     <div class="navbar-wrap">
-        <a href="https://blocknet.co" class="brand w-nav-brand"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blocknet-logo-dark.svg" alt="" class="logo"></a>
+        <a href="https://blocknet.co" class="brand w-nav-brand"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blocknet-logo-dark.png" alt="" class="logo"></a>
         <nav role="navigation" class="nav-menu light w-nav-menu">
             <a href="../blocknet-protocol.html" class="nav-link"><?php _e( 'Protocol', 'blocknet' ); ?></a>
             <a href="../built-on-blocknet.html" class="nav-link"><?php _e( 'Solutions', 'blocknet' ); ?></a>
@@ -165,7 +165,7 @@
             </div>
         </div>
         <div class="w-layout-grid footer-bottom-grid">
-            <a id="w-node-5181204afa6c-204afa2d" href="https://blocknet.co" class="logo-footer-link w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blocknet-logo-white.svg" height="30" alt=""></a>
+            <a id="w-node-5181204afa6c-204afa2d" href="https://blocknet.co" class="logo-footer-link w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blocknet-logo-white.png" height="30" alt=""></a>
             <div id="w-node-5181204afa6e-204afa2d" class="footer-legal-links-wrap">
                 <a href="#" class="footer-legal-link"><?php _e( '© Copyright 2020', 'blocknet' ); ?></a>
             </div>

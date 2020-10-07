@@ -940,6 +940,7 @@ figcaption {
 }
 
 .brand {
+    max-width: 200px;
     padding-top: 25px;
     padding-bottom: 25px;
 }
@@ -3338,6 +3339,7 @@ figcaption {
     }
 
     .brand {
+        max-width: 180px;
         padding-left: 0px;
     }
 
