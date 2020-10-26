@@ -2,10 +2,10 @@
 
 <div data-animation="default" class="navbar w-nav" data-easing2="ease-in-out" data-easing="ease-in-out" data-collapse="medium" data-w-id="d35dffeb-0076-0599-6e1c-5bcf354f093e" role="banner" data-duration="400" data-doc-height="1">
     <div class="navbar-wrap">
-        <a href="index.html" class="brand w-nav-brand"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blocknet-logo-dark.png" alt="" class="logo"></a>
+        <a href="index class="brand w-nav-brand"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blocknet-logo-dark.png" alt="" class="logo"></a>
         <nav role="navigation" class="nav-menu light w-nav-menu">
-            <a href="blocknet-protocol.html" class="nav-link"><?php _e( 'Protocol', 'blocknet' ); ?></a>
-            <a href="built-on-blocknet.html" class="nav-link"><?php _e( 'Solutions', 'blocknet' ); ?></a>
+            <a href="blocknet-protocol" class="nav-link"><?php _e( 'Protocol', 'blocknet' ); ?></a>
+            <a href="built-on-blocknet" class="nav-link"><?php _e( 'Solutions', 'blocknet' ); ?></a>
             <div data-hover="" data-delay="200" class="nav-link nav-with-sub w-dropdown">
                 <div class="dropdown-toggle light w-dropdown-toggle" data-ix="nav-sub-menu-open">
                     <div>
@@ -13,8 +13,8 @@
                     </div>
                 </div>
                 <nav class="nav-sub-menu light w-dropdown-list">
-                    <a href="learn-about-blocknet.html" class="nav-sub-menu-link w-dropdown-link"><?php _e( 'Learn', 'blocknet' ); ?></a>
-                    <a href="build-with-blocknet.html" class="nav-sub-menu-link w-dropdown-link"><?php _e( 'Build', 'blocknet' ); ?></a>
+                    <a href="learn-about-blocknet" class="nav-sub-menu-link w-dropdown-link"><?php _e( 'Learn', 'blocknet' ); ?></a>
+                    <a href="build-with-blocknet" class="nav-sub-menu-link w-dropdown-link"><?php _e( 'Build', 'blocknet' ); ?></a>
                     <a href="http://docs.blocknet.co" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
                             <?php _e( 'Documentation', 'blocknet' ); ?>
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
@@ -26,7 +26,7 @@
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
                 </nav>
             </div>
-            <a href="downloads.html" class="nav-link"><?php _e( 'Downloads', 'blocknet' ); ?></a>
+            <a href="downloads" class="nav-link"><?php _e( 'Downloads', 'blocknet' ); ?></a>
             <div data-hover="" data-delay="200" class="nav-link nav-with-sub w-dropdown">
                 <div class="dropdown-toggle light w-dropdown-toggle" data-ix="nav-sub-menu-open">
                     <div>
@@ -40,14 +40,14 @@
                     <a href="https://t.me/Blocknet" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
                             <?php _e( 'Join Telegram', 'blocknet' ); ?>
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
-                    <a href="contribute-to-blocknet.html" class="nav-sub-menu-link w-dropdown-link"><?php _e( 'Contribute', 'blocknet' ); ?></a>
+                    <a href="contribute-to-blocknet" class="nav-sub-menu-link w-dropdown-link"><?php _e( 'Contribute', 'blocknet' ); ?></a>
                     <a href="http://forum.blocknet.co" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
                             <?php _e( 'Proposal Forum', 'blocknet' ); ?>
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
                 </nav>
             </div>
-            <a href="blog.html" blog="archive-link" class="nav-link"><?php _e( 'Blog', 'blocknet' ); ?></a>
-            <a href="roadmap.html" class="nav-link"><?php _e( 'Roadmap', 'blocknet' ); ?></a>
+            <a href="blog" blog="archive-link" class="nav-link"><?php _e( 'Blog', 'blocknet' ); ?></a>
+            <a href="roadmap" class="nav-link"><?php _e( 'Roadmap', 'blocknet' ); ?></a>
         </nav>
         <div class="mobile-menu-button w-nav-button">
             <div class="nav-btn-line-top"></div>
@@ -153,13 +153,13 @@
             <h5 id="w-node-5181204afa34-204afa2d"><?php _e( 'Developers', 'blocknet' ); ?></h5>
             <h5 id="w-node-5181204afa36-204afa2d"><?php _e( 'Exchanges', 'blocknet' ); ?></h5>
             <div id="w-node-5181204afa38-204afa2d" class="footer-links-list">
-                <a href="blocknet-protocol.html" class="footer-link"><?php _e( 'Protocol', 'blocknet' ); ?></a>
-                <a href="built-on-blocknet.html" class="footer-link"><?php _e( 'Solutions', 'blocknet' ); ?></a>
-                <a href="build-with-blocknet.html" class="footer-link"><?php _e( 'Developers', 'blocknet' ); ?></a>
-                <a href="downloads.html" class="footer-link"><?php _e( 'Downloads', 'blocknet' ); ?></a>
-                <a href="contribute-to-blocknet.html" class="footer-link"><?php _e( 'Community', 'blocknet' ); ?></a>
-                <a href="roadmap.html" class="footer-link"><?php _e( 'Roadmap', 'blocknet' ); ?></a>
-                <a href="blog.html" class="footer-link"><?php _e( 'News', 'blocknet' ); ?></a>
+                <a href="blocknet-protocol" class="footer-link"><?php _e( 'Protocol', 'blocknet' ); ?></a>
+                <a href="built-on-blocknet" class="footer-link"><?php _e( 'Solutions', 'blocknet' ); ?></a>
+                <a href="build-with-blocknet" class="footer-link"><?php _e( 'Developers', 'blocknet' ); ?></a>
+                <a href="downloads" class="footer-link"><?php _e( 'Downloads', 'blocknet' ); ?></a>
+                <a href="contribute-to-blocknet" class="footer-link"><?php _e( 'Community', 'blocknet' ); ?></a>
+                <a href="roadmap" class="footer-link"><?php _e( 'Roadmap', 'blocknet' ); ?></a>
+                <a href="blog" class="footer-link"><?php _e( 'News', 'blocknet' ); ?></a>
             </div>
             <div id="w-node-5181204afa47-204afa2d" class="footer-links-list">
                 <a href="#" class="footer-link"><?php _e( 'Documentation Portal', 'blocknet' ); ?></a>
@@ -167,7 +167,7 @@
                 <a href="#" class="footer-link"><?php _e( 'Service Nodes Guide', 'blocknet' ); ?></a>
                 <a href="#" class="footer-link"><?php _e( 'Staking Wallet Guide', 'blocknet' ); ?></a>
                 <a href="#" class="footer-link"><?php _e( 'Governance', 'blocknet' ); ?></a>
-                <a href="brand-resources.html" class="footer-link"><?php _e( 'Brand Resources', 'blocknet' ); ?></a>
+                <a href="brand-resources" class="footer-link"><?php _e( 'Brand Resources', 'blocknet' ); ?></a>
             </div>
             <div id="w-node-5181204afa54-204afa2d" class="footer-links-list">
                 <a href="#" class="footer-link"><?php _e( 'Getting Started Guides', 'blocknet' ); ?></a>
