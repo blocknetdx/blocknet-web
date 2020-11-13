@@ -712,7 +712,7 @@ figcaption {
     -webkit-transition: color 200ms ease;
     transition: color 200ms ease;
     color: #000529;
-    font-size: 17px;
+    font-size: 15px;
 }
 
 .nav-link:hover {
@@ -1944,7 +1944,7 @@ figcaption {
     background-position: 100% 50%;
     background-size: 20px;
     background-repeat: no-repeat;
-    font-size: 17px;
+    font-size: inherit;
 }
 
 .dropdown-toggle:hover {
@@ -1995,6 +1995,7 @@ figcaption {
     padding: 20px 30px;
     -webkit-transition: opacity 200ms ease, background-color 200ms ease;
     transition: opacity 200ms ease, background-color 200ms ease;
+     font-size: inherit;
 }
 
 .nav-sub-menu-link:hover {
@@ -2020,6 +2021,7 @@ figcaption {
     -webkit-transition: background-color 200ms ease;
     transition: background-color 200ms ease;
     color: #000529;
+     font-size: inherit;
 }
 
 .nav-sub-menu-link-external:hover {
