@@ -1784,7 +1784,11 @@ figcaption {
 }
 
 .no-margin {
-  margin-bottom: 0px;
+  margin-bottom: 0px !important;
+}
+
+.bottom-margin-40 {
+    margin-bottom: 40px !important;
 }
 
 .whitepaper-link {
@@ -1827,14 +1831,15 @@ figcaption {
   display: -ms-flexbox;
   display: flex;
   margin-top: 50px;
+  margin-bottom: 120px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-justify-content: space-around;
+  -webkit-justify-content: center;
   -ms-flex-pack: distribute;
-  justify-content: space-around;
+  justify-content: center;
   -webkit-box-align: baseline;
   -webkit-align-items: baseline;
   -ms-flex-align: baseline;
@@ -1843,11 +1848,14 @@ figcaption {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
+  -webkit-grid-column-gap:30px;
+  -ms-grid-column-gap:30px;
+  grid-column-gap:30px;
 }
 
 .exchange-logo {
   max-height: 60px;
-  margin-bottom: 40px;
+  margin: 0 auto 40px;
 }
 
 .exchange-name {
@@ -1868,6 +1876,7 @@ figcaption {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
+    padding: 0 30px;
 }
 
 .newsletter-grid {
@@ -3637,8 +3646,13 @@ figcaption {
     grid-template-rows: auto auto;
   }
   .exchange-logo {
-    margin-bottom: 20px;
+      text-align: center;
+      margin: 0 auto 20px;
   }
+    .exchange-link-block {
+        padding: 0;
+    }
+    
   .newsletter-grid {
     -ms-grid-columns: 0.5fr 1fr;
     grid-template-columns: 0.5fr 1fr;
@@ -4491,7 +4505,7 @@ figcaption {
     -webkit-align-items: baseline;
     -ms-flex-align: baseline;
     align-items: baseline;
-    grid-column-gap: 40px;
+    grid-column-gap: 0px;
     grid-row-gap: 40px;
     -ms-grid-columns: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
