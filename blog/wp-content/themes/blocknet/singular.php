@@ -170,7 +170,7 @@
                 <a href="../built-on-blocknet.html" class="footer-link"><?php _e( 'Solutions', 'blocknet' ); ?></a>
                 <a href="../build-with-blocknet.html" class="footer-link"><?php _e( 'Developers', 'blocknet' ); ?></a>
                 <a href="../downloads.html" class="footer-link"><?php _e( 'Downloads', 'blocknet' ); ?></a>
-                <a href="../contribute-to-blocknet.html" class="footer-link"><?php _e( 'Community', 'blocknet' ); ?></a>
+                <a href="https://chainz.cryptoid.info/block/" target="_blank" class="footer-link"><?php _e( 'Explorer', 'blocknet' ); ?></a>
                 <a href="../roadmap.html" class="footer-link"><?php _e( 'Roadmap', 'blocknet' ); ?></a>
                 <a href="<?php echo esc_url( home_url() ); ?>/blog" class="footer-link"><?php _e( 'Blog', 'blocknet' ); ?></a>
             </div>
