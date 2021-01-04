@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<!--  This site was created in Webflow. http://www.webflow.com  -->
-<!--  Last Published: Mon Sep 14 2020 11:49:56 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="5f27e3187165e212fe24f724" data-wf-site="5f1960143510ee817fa57da1">
 <head>
   <meta charset="utf-8">
@@ -124,13 +122,6 @@
                     <div class="roadmap-meta partnership">Partnership</div>
                   </div>
                 </div>
-                <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">ERC-20 BLOCK solution</h4>
-                  <p>A short-term solution for the creation of an ERC-20 BLOCK token enabling BLOCK to be integrated on Ethereum DEXes and in DeFi applications.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta core">Core</div>
-                  </div>
-                </div>
                   <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">XBridge ETH/ERC-20 Atomic Swaps</h4>
                   <p>Enabling trustless swaps of ETH/ERC-20 for supported assets on Block DX Exchange.</p>
@@ -157,8 +148,58 @@
             </div>
           </div>
           <div data-w-tab="tab-planning" class="in-planning w-tab-pane">
-            <div class="roadmap-quarter-wrap">
-              <h4 class="roadmap-subtitle">Q4 2020 &amp; Beyond</h4>
+              <div class="roadmap-quarter-wrap">
+              <h4 class="roadmap-subtitle">2021 Roadmap coming soon...</h4>
+              <div class="w-layout-grid roadmap-items-grid">
+                <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title"></h4>
+                  <p>&nbsp;&nbsp;&nbsp;</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta"></div>
+                  </div>
+                </div>
+                <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title"></h4>
+                 <p>&nbsp;&nbsp;&nbsp;</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta"></div>
+                  </div>
+                </div>
+                  <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title"></h4>
+                  <p>&nbsp;&nbsp;&nbsp;</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta"></div>
+                  </div>
+                </div>
+                  <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title"></h4>
+                  <p>&nbsp;&nbsp;&nbsp;</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta"></div>
+                  </div>
+                </div>
+                <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title"></h4>
+                 <p>&nbsp;&nbsp;&nbsp;</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta"></div>
+                  </div>
+                </div>
+                  <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title"></h4>
+                  <p>&nbsp;&nbsp;&nbsp;</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta"></div>
+                  </div>
+                </div>
+                  
+              </div>
+            </div>
+          </div>
+          <div data-w-tab="tab-future" class="future w-tab-pane">
+              <div class="roadmap-quarter-wrap">
+              <h4 class="roadmap-subtitle">2021 &amp; Beyond</h4>
               <div class="w-layout-grid roadmap-items-grid">
                   <div id="w-node-039ca9628657-fe24f724" class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Lite Libraries JS</h4>
@@ -440,62 +481,25 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div data-w-tab="tab-future" class="future w-tab-pane">
-            <div class="roadmap-quarter-wrap">
-              <h4 class="roadmap-subtitle">Coming soon...</h4>
-              <div class="w-layout-grid roadmap-items-grid">
-                <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title"></h4>
-                  <p>&nbsp;&nbsp;&nbsp;</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta"></div>
-                  </div>
-                </div>
-                <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title"></h4>
-                 <p>&nbsp;&nbsp;&nbsp;</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta"></div>
-                  </div>
-                </div>
-                  <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title"></h4>
-                  <p>&nbsp;&nbsp;&nbsp;</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta"></div>
-                  </div>
-                </div>
-                  <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title"></h4>
-                  <p>&nbsp;&nbsp;&nbsp;</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta"></div>
-                  </div>
-                </div>
-                <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title"></h4>
-                 <p>&nbsp;&nbsp;&nbsp;</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta"></div>
-                  </div>
-                </div>
-                  <div id="w-node-5953ab4b8314-fe24f724" class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title"></h4>
-                  <p>&nbsp;&nbsp;&nbsp;</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta"></div>
-                  </div>
-                </div>
-                  
-              </div>
-            </div>
+
           </div>
           <div data-w-tab="tab-completed" class="completed w-tab-pane">
             <div class="roadmap-quarter-wrap">
-              <h4 class="roadmap-subtitle">Q3 2020</h4>
+              <h4 class="roadmap-subtitle">Q4 2020</h4>
               <div class="w-layout-grid roadmap-items-grid">
                 <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">ERC-20 BLOCK solution</h4>
+                  <p>A short-term solution for the creation of an ERC-20 BLOCK token enabling BLOCK to be integrated on Ethereum DEXes and in DeFi applications.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta core">Core</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+              <div class="roadmap-quarter-wrap">
+              <h4 class="roadmap-subtitle">Q3 2020</h4>
+              <div class="w-layout-grid roadmap-items-grid">
+                  <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Blocknet Website relaunch<br></h4>
                   <p>A relaunch of the official Blocknet website with an all new design and updated content.<br></p>
                   <div class="roadmap-tags-wrap">
