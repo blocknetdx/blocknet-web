@@ -16,7 +16,7 @@
    
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
   <link href="css/webflow.css" rel="stylesheet" type="text/css"> 
-  <link href="css/blocknet-website-project.webflow.css?v=1.0.4" rel="stylesheet" type="text/css">
+  <link href="css/blocknet-website-project.webflow.css?v=1.0.5" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
   <script type="text/javascript">WebFont.load({  google: {    families: ["IBM Plex Sans:300,regular,italic,500,600,700"]  }});</script>
   <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
@@ -159,8 +159,8 @@
                     <div class="roadmap-meta xrouter">XRouter</div>
                   </div>
                 </div>
-                  <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Enterprise XRouter Proxy</h4>
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Hydra - Enterprise XRouter</h4>
                   <p>An nginx reverse proxy that interfaces with the XRouter protocol to enable millions of requests per second.</p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta xrouter">XRouter</div>
@@ -184,7 +184,7 @@
                   <h4 class="roadmap-item-title">Support for 8 decimal places in Block DX</h4>
                  <p>Support for 8 decimal places in the Block DX UI.</p>
                   <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta"></div>
+                    <div class="roadmap-meta blockdx">block dx</div>
                   </div>
                 </div>
                   <div class="roadmap-item-wrap">
@@ -263,6 +263,27 @@
                     <div class="roadmap-meta xlite">xlite</div>
                   </div>
                 </div>
+                  <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Ledger Support<br></h4>
+                  <p>Manage, send, receive, and securely store your BLOCK on the Ledger hardware wallet.<br></p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta core">Core</div>
+                  </div>
+                </div>
+                  <div id="w-node-c723face6f82-fe24f724" class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">TradingView Charts<br></h4>
+                  <p>Support for TradingView charts in Block DX.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta blockdx">BLOCK DX</div>
+                  </div>
+                </div>
+                  <div id="w-node-c723face6f82-fe24f724" class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Staking Calculator <br></h4>
+                  <p>Web-based staking rewards calculator for Blocknet node operators.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta core">Core</div>
+                  </div>
+                </div>
                   <div id="w-node-039ca9628657-fe24f724" class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Lite Libraries JS</h4>
                   <p>Enables developers to use XRouter and XCloud without the Blocknet wallet for easy and lite weight plug-and-play integration</p>
@@ -296,13 +317,6 @@
                 <div id="w-node-c723face6f78-fe24f724" class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">UTXO Splitter</h4>
                   <p>Support for easily splitting UTXOs in any connected wallet.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta blockdx">BLOCK DX</div>
-                  </div>
-                </div>
-                <div id="w-node-c723face6f82-fe24f724" class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">TradingView Charts<br></h4>
-                  <p>Support for TradingView charts in Block DX.</p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta blockdx">BLOCK DX</div>
                   </div>
@@ -343,13 +357,6 @@
                   <p>Enables users to easily view XCloud service descriptions, versions, and parameters instead of relying on external sources.<br></p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta xcloud">XCloud</div>
-                  </div>
-                </div>
-                <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Ledger Support<br></h4>
-                  <p>Manage, send, receive, and securely store your BLOCK on the Ledger hardware wallet.<br></p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta core">Core</div>
                   </div>
                 </div>
                 <div class="roadmap-item-wrap">

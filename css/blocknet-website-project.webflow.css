@@ -2608,7 +2608,7 @@ figcaption {
 }
 
 .get-started-options-link:hover {
-  border-bottom-color: #838383;
+  border-bottom-color: #CCC;
   color: #404040;
 }
 
@@ -2775,6 +2775,7 @@ figcaption {
 
 .roadmap-meta.xlite {
   background-color: #1fd67a;
+    color: #fff;
 }
 
 .roadmap-tags-wrap {
@@ -3243,10 +3244,12 @@ figcaption {
     padding-bottom: 60px;
     border-top: 1px solid #cfcfcf;
   }
+/*
   .get-started-options-link:hover {
     border-bottom-color: #e1e1e1;
     color: #838383;
   }
+*/
   .get-started-options-link.dark.w--current {
     border-bottom-color: #0065f3;
   }
