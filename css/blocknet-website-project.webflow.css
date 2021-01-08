@@ -2773,6 +2773,10 @@ figcaption {
   background-color: #e1e1e1;
 }
 
+.roadmap-meta.xlite {
+  background-color: #1fd67a;
+}
+
 .roadmap-tags-wrap {
   position: absolute;
   left: 0px;
