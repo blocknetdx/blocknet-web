@@ -116,6 +116,13 @@
                 <h4 class="roadmap-subtitle">Currently in development</h4>
               <div class="w-layout-grid roadmap-items-grid">
                 <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Blocknet Core wallet 4.3.2</h4>
+                  <p>This update resolves the disappearing stake issue experienced by some users.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta core">Core</div>
+                  </div>
+                </div>
+                  <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">XLite Multi-asset Wallet</h4>
                   <p>Trade on Block DX without downloading additional chains using XLite, the lightweight, multi-asset wallet developed by Blocknet and CloudChains Inc.</p>
                   <div class="roadmap-tags-wrap">
@@ -124,14 +131,6 @@
                   </div>
                 </div>
                   <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">XBridge ETH/ERC-20 Atomic Swaps</h4>
-                  <p>Enabling trustless swaps of ETH/ERC-20 for supported assets on Block DX Exchange.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta xbridge">XBridge</div>
-                    <div class="roadmap-meta blockdx">Block DX</div>
-                  </div>
-                </div>
-                <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Block DX v1.9.1</h4>
                   <p>This release includes an auto-setup for the new XLite wallet, and other minor improvements and fixes.</p>
                   <div class="roadmap-tags-wrap">
@@ -139,10 +138,25 @@
                   </div>
                 </div>
                   <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Blocknet Core wallet 4.3.2</h4>
-                  <p>This update resolves the disappearing stake issue experienced by some users.</p>
+                  <h4 class="roadmap-item-title">Hydra - Enterprise XRouter</h4>
+                  <p>An nginx reverse proxy that interfaces with the XRouter protocol to enable millions of requests per second.</p>
                   <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta core">Core</div>
+                    <div class="roadmap-meta xrouter">XRouter</div>
+                  </div>
+                </div>
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Support for 18 decimals in XBridge</h4>
+                  <p>Enabling 18 decimal places in XBridge to support ETH/ERC-20 integration throughout the Blocknet ecosystem.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta xbridge">xbridge</div>
+                  </div>
+                </div>
+                  <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">XBridge ETH/ERC-20 Atomic Swaps</h4>
+                  <p>Enabling trustless swaps of ETH/ERC-20 for supported assets on Block DX Exchange.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta xbridge">XBridge</div>
+                    <div class="roadmap-meta blockdx">Block DX</div>
                   </div>
                 </div>
                 <div class="roadmap-item-wrap">
@@ -159,13 +173,6 @@
                     <div class="roadmap-meta xrouter">XRouter</div>
                   </div>
                 </div>
-                <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Hydra - Enterprise XRouter</h4>
-                  <p>An nginx reverse proxy that interfaces with the XRouter protocol to enable millions of requests per second.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta xrouter">XRouter</div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
@@ -173,13 +180,6 @@
               <div class="roadmap-quarter-wrap">
             <h4 class="roadmap-subtitle">Projects in the planning stage</h4>
               <div class="w-layout-grid roadmap-items-grid">
-                <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Support for 18 decimals in XBridge</h4>
-                  <p>Enabling 18 decimal places in XBridge to support ETH/ERC-20 integration throughout the Blocknet ecosystem.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta xbridge">xbridge</div>
-                  </div>
-                </div>
                 <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Support for 8 decimal places in Block DX</h4>
                  <p>Support for 8 decimal places in the Block DX UI.</p>
