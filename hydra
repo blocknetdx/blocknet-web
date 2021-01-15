@@ -1,0 +1,153 @@
+<!DOCTYPE html><!--  This site was created in Webflow. http://www.webflow.com  -->
+<!--  Last Published: Thu Jan 14 2021 11:59:51 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="5fad29866d264967aae463c5" data-wf-site="5fad29866d264905cde463c7">
+<head>
+  <meta charset="utf-8">
+  <title>Hydra</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="css/blocknet-hydra.webflow.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({  google: {    families: ["IBM Plex Sans:300,regular,500,600","Barlow:300,regular,600"]  }});</script>
+  <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="images/hydra/favicon.png" rel="shortcut icon" type="image/x-icon">
+  <link href="images/hydra/webclip.png" rel="apple-touch-icon">
+</head>
+<body class="body">
+  <div class="section hero">
+    <div class="container">
+      <div class="hero-content">
+        <div data-w-id="748e3c53-b293-a16b-3fc8-46e1ff094159" class="logo-wrap">
+          <div class="logo-icon-spinner"><img src="images/hydra/icon-spinner-big.svg" loading="lazy" width="174" data-w-id="28a034c5-2ff5-5bd1-c810-b975bfafcd86" alt=""></div>
+          <div class="logo"><img src="images/hydra/hydra-logo-light.png" loading="lazy" sizes="(max-width: 479px) 83vw, (max-width: 991px) 380px, 420px" srcset="images/hydra/hydra-logo-light-p-500.png 500w, images/hydra/hydra-logo-light-p-800.png 800w, images/hydra/hydra-logo-light-p-1080.png 1080w, images/hydra/hydra-logo-light-p-1600.png 1600w, images/hydra/hydra-logo-light.png 1996w" alt="" class="image"></div>
+        </div>
+        <h1 class="hero-title">Introducing Hydra.<br></h1>
+        <h2 class="hero-subtitle"> Decentralized API access to any blockchain, built on the <a href="https://blocknet.co" target="_blank" class="text-link">Blocknet Protocol</a>.<br></h2>
+        <a href="https://api.blocknet.co/#hydra-api" target="_blank" class="button-default w-button">Get started with Hydra</a>
+      </div>
+    </div>
+  </div>
+  <div class="section protocol">
+    <div data-w-id="6083f9f8-79ee-f776-3230-800cdb685847" style="opacity:0" class="hydra-wrap"><img src="images/hydra/hydra-white.svg" loading="lazy" data-w-id="d5b66971-0e66-5592-f2ba-615954721e84" alt="" class="hydra-layer _0"><img src="images/hydra/hydra-grey.svg" loading="lazy" data-w-id="d6094869-a181-0111-f180-4ca18d04d502" alt="" class="hydra-layer _1"><img src="images/hydra/hydra-orange.svg" data-w-id="dc8b7f57-3cea-a90c-5050-80dbd9b3dd74" alt="" class="hydra-layer _2"><img src="images/hydra/hydra-icon-center.svg" data-w-id="b8b1e81a-db4f-4d09-0122-a3587d8a400f" alt="" class="hydra-layer _3"></div>
+    <div class="container">
+      <p class="text-center">Hydra is a decentralized drop-in replacement for Infura.<br>Its decentralized architecture is highly scalable and provides a foundation for a truly decentralized dApp ecosystem.</p>
+    </div>
+  </div>
+  <div class="section hydra-info">
+    <div class="protocol--info-content-wrao">
+      <div id="w-node-4b74cb01e1ca-aae463c5" class="comp-info-block">
+        <div data-w-id="482987a5-2ad3-1ecc-f814-3dd3c01a4790" style="opacity:0" class="feature-content-wrap"><img src="images/hydra/icons8-blockchain-technology-100.png" loading="lazy" width="60" alt="" class="feature-icon">
+          <h2 class="info-box-title">Blockchain Connector </h2>
+          <p class="comp-info-text">Hydra enables easy connection for developers to access accurate and reliable blockchain information.<br><br>Powered by the Blocknet&#x27;s XRouter protocol, Hydra provides users with an all-in-one solution for blockchain data, including Ethereum.</p>
+        </div>
+        <div class="separator"></div>
+        <div data-w-id="804924b5-5205-75bc-1b71-d95d63238133" style="opacity:0" class="feature-content-wrap"><img src="images/hydra/icons8-speed-100.png" loading="lazy" width="50" alt="" class="feature-icon">
+          <h2 class="info-box-title">Fast Access</h2>
+          <p class="comp-info-text">Access to some blockchains such as Ethereum require incredibly large amounts of data, storage, long sync times and ongoing maintenance, which carry high costs.<br><br>Hydra provides instant access to blockchain data with a simple drop-in URL. Developers can begin accessing blockchain data without any of the drawbacks of hosting their own nodes.</p>
+        </div>
+        <div class="separator"></div>
+        <div data-w-id="3c52d97b-9aa7-2df1-bf2f-4b50ff3263e2" style="opacity:0" class="feature-content-wrap"><img src="images/hydra/icons8-hdd-100.png" loading="lazy" width="50" alt="" class="feature-icon">
+          <h2 class="info-box-title">Archival Data</h2>
+          <p class="comp-info-text">Running an Ethereum archival node is an extremely costly exercise and requires terabytes of storage space on fast drives. Multiple archival nodes run on Hydra, removing the barrier to entry for all developers.</p>
+        </div>
+        <div class="separator"></div>
+        <div data-w-id="6dda753c-9091-5d03-e908-90815cbaf23e" style="opacity:0" class="feature-content-wrap"><img src="images/hydra/icons8-decentralized-network-100.png" loading="lazy" width="50" alt="" class="feature-icon">
+          <h2 class="info-box-title">Decentralized</h2>
+          <p class="comp-info-text">Blockchain service providers are typically trusted intermediaries.<br>In contrast, Hydra is a completely decentralized solution which protects the network from downtime and points of attack.</p>
+        </div>
+        <div class="separator"></div>
+        <div data-w-id="edc5e17a-ed55-d437-4414-876a5359fa53" style="opacity:0" class="feature-content-wrap"><img src="images/hydra/icons8-business-network-100.png" loading="lazy" width="50" alt="" class="feature-icon">
+          <h2 class="info-box-title">Service Providers</h2>
+          <p class="comp-info-text">Hydra is designed to allow anyone to potentially deploy and run a Hydra endpoint service. This can be a profitable activity for those that want to support the Hydra infrastructure.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section faq">
+    <div class="container w-container">
+      <h2 class="info-box-title">Hydra FAQ</h2>
+      <div class="separator small orange"></div>
+      <div class="faq-wrapper">
+        <div class="faq-item">
+          <h3 class="faq-question">How do I get started as a service provider?</h3>
+          <p data-w-id="42713a73-c3ab-89c4-1811-fc4bf28b6b77" class="faq-content">The easiest way to get started is by using the <a href="https://github.com/blocknetdx/exrproxy-env" target="_blank" class="text-link white">Hydra docker compose file on Github</a><br></p>
+        </div>
+        <div class="faq-item">
+          <h3 data-w-id="42713a73-c3ab-89c4-1811-fc4bf28b6b7b" class="faq-question">What kind of hardware is recommended as a service provider?</h3>
+          <p class="faq-content">All blockchains require different levels of hardware but for GETH support it is recommended minimum 8vCPU, 16GB RAM, SSD for archival node.<br></p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-question">How do I get started as a developer?<strong><br></strong></h3>
+          <p class="faq-content">Have a read of the <a href="http://api.blocknet.co" target="_blank" class="text-link white">Hydra API docs</a> and <a href="https://discord.gg/TaW2BvsPhQ" target="_blank" class="text-link white">join the Blocknet Discord</a> if you have any questions.</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-question">How are fees paid or collected?<br></h3>
+          <p class="faq-content">Hydra users will be able to send a request with a payment in ETH or aBLOCK to service nodes in return for a project ID and API. This allows developers to make requests to the Blocknet network based on how much they paid.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section features-overview">
+    <div class="container">
+      <div class="features-wrap w-row">
+        <div class="w-col w-col-6 w-col-medium-6">
+          <div class="feature-block-small left">
+            <h2 class="feature-heading">Small feature</h2>
+            <p class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </div>
+        </div>
+        <div class="w-col w-col-6 w-col-medium-6">
+          <div class="feature-block-small right">
+            <h2 class="feature-heading">Small feature</h2>
+            <p class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </div>
+        </div>
+      </div>
+      <div class="features-wrap w-row">
+        <div class="w-col w-col-6">
+          <div class="feature-block-small">
+            <h2 class="feature-heading">Small feature</h2>
+            <p class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </div>
+        </div>
+        <div class="w-col w-col-6">
+          <div class="feature-block-small right">
+            <h2 class="feature-heading">Small feature</h2>
+            <p class="feature-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section cta-light">
+    <div class="container center">
+      <div class="cta">
+        <h2 class="margin-bottom-40">Get started now with the Hydra API docs.<br></h2>
+        <a href="https://api.blocknet.co/#hydra-api" target="_blank" class="button-default w-button">Get started with Hydra</a>
+        <a href="https://discord.gg/TaW2BvsPhQ" target="_blank" class="text-link">Join the Blocknet Discord server</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="logo-small"><img src="images/hydra/hydra-logo-light.png" loading="lazy" sizes="(max-width: 479px) 80vw, 180px" srcset="images/hydra/hydra-logo-light-p-500.png 500w, images/hydra/hydra-logo-light-p-800.png 800w, images/hydra/hydra-logo-light-p-1080.png 1080w, images/hydra/hydra-logo-light-p-1600.png 1600w, images/hydra/hydra-logo-light.png 1996w" alt=""></div>
+    <a href="https://blocknet.co" target="_blank" class="w-inline-block"><img src="images/hydra/logo-blocknet-footer.png" loading="lazy" width="176" alt="" class="footer-logo-img"></a>
+    <a href="http://blocknet.co" target="_blank" class="text-link">Built by Blocknet.co</a>
+  </div>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5fad29866d264905cde463c7" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="js/hydra.js" type="text/javascript"></script>
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+  <style type="text/css" media="screen">
+.w-webflow-badge {
+  display:none !important;
+ }
+</style>
+  <style type="text/css" media="screen">
+.w-webflow-badge {
+  display:none !important;
+ }
+</style>
+</body>
+</html>
