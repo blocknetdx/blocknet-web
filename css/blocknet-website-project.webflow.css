@@ -2777,6 +2777,10 @@ figcaption {
   background-color: #1fd67a;
     color: #fff;
 }
+.roadmap-meta.hydra {
+  background-color: darkorange;
+    color: #fff;
+}
 
 .roadmap-tags-wrap {
   position: absolute;

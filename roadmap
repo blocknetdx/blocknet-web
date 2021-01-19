@@ -16,7 +16,7 @@
    
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
   <link href="css/webflow.css" rel="stylesheet" type="text/css"> 
-  <link href="css/blocknet-website-project.webflow.css?v=1.0.5" rel="stylesheet" type="text/css">
+  <link href="css/blocknet-website-project.webflow.css?v=1.0.6" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
   <script type="text/javascript">WebFont.load({  google: {    families: ["IBM Plex Sans:300,regular,italic,500,600,700"]  }});</script>
   <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
@@ -116,35 +116,6 @@
                 <h4 class="roadmap-subtitle">Currently in development</h4>
               <div class="w-layout-grid roadmap-items-grid">
                 <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Blocknet Core wallet 4.3.2</h4>
-                  <p>This update resolves the disappearing stake issue experienced by some users.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta core">Core</div>
-                  </div>
-                </div>
-                  <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">XLite Multi-asset Wallet</h4>
-                  <p>Trade on Block DX without downloading additional chains using XLite, the lightweight, multi-asset wallet developed by Blocknet and CloudChains Inc.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta blockdx">Block DX</div>
-                    <div class="roadmap-meta partnership">Partnership</div>
-                  </div>
-                </div>
-                  <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Block DX - XLite auto config</h4>
-                  <p>This release includes an auto-setup for the new XLite wallet, and other minor improvements and fixes.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta blockdx">Block DX</div>
-                  </div>
-                </div>
-                  <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Hydra - Enterprise XRouter</h4>
-                  <p>An nginx reverse proxy that interfaces with the XRouter protocol to enable millions of requests per second.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta xrouter">XRouter</div>
-                  </div>
-                </div>
-                <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Support for 18 decimals in XBridge</h4>
                   <p>Enabling 18 decimal places in XBridge to support ETH/ERC-20 integration throughout the Blocknet ecosystem.</p>
                   <div class="roadmap-tags-wrap">
@@ -171,6 +142,13 @@
                   <p>Enables developers to use XRouter without the Blocknet wallet for lightweight plug-and-play integration.</p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta xrouter">XRouter</div>
+                  </div>
+                </div>
+                  <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Blocknet Core wallet 4.3.2</h4>
+                  <p>This update resolves the disappearing stake issue experienced by some users.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta core">Core</div>
                   </div>
                 </div>
               </div>
@@ -528,13 +506,40 @@
                 </div>
               </div>
             </div>
-
           </div>
           <div data-w-tab="tab-completed" class="completed w-tab-pane">
             <div class="roadmap-quarter-wrap">
-              <h4 class="roadmap-subtitle">Q4 2020</h4>
+              <h4 class="roadmap-subtitle">Q1 2021</h4>
               <div class="w-layout-grid roadmap-items-grid">
                 <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Hydra - Enterprise XRouter v1.0</h4>
+                  <p>An nginx reverse proxy that interfaces with the XRouter protocol to enable millions of requests per second.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta xrouter">XRouter</div>
+                    <div class="roadmap-meta hydra">Hydra</div>
+                  </div>
+                </div>
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">XLite Multi-asset Wallet</h4>
+                  <p>Trade on Block DX without downloading additional chains using XLite, the lightweight, multi-asset wallet developed by Blocknet and CloudChains Inc.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta blockdx">Block DX</div>
+                    <div class="roadmap-meta partnership">Partnership</div>
+                  </div>
+                </div>
+                  <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Block DX - XLite auto config</h4>
+                  <p>This release includes an auto-setup for the new XLite wallet, and other minor improvements and fixes.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta blockdx">Block DX</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+              <div class="roadmap-quarter-wrap">
+              <h4 class="roadmap-subtitle">Q4 2020</h4>
+              <div class="w-layout-grid roadmap-items-grid">
+                  <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">ERC-20 BLOCK solution</h4>
                   <p>A short-term solution for the creation of an ERC-20 BLOCK token enabling BLOCK to be integrated on Ethereum DEXes and in DeFi applications.</p>
                   <div class="roadmap-tags-wrap">
