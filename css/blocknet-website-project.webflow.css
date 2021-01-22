@@ -3159,7 +3159,7 @@ figcaption {
     padding-right: 30px;
     padding-left: 30px;
     padding-top: 10px;
-    text-align: left;
+    text-align: center;
 }
 
 @media screen and (min-width: 1280px) {
@@ -5761,6 +5761,9 @@ figcaption {
     -ms-grid-column-span: 2;
     grid-column-end: span 2;
   }
+     .mobile-margin-top {
+        margin-top: 40px;
+    }
 }
 
 @media screen and (max-width: 767px) {
