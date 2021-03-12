@@ -33,7 +33,7 @@
                     </div>
                 </div>
                 <nav class="nav-sub-menu w-dropdown-list">
-                    <a href="https://discord.gg/Nz7Dy4j" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
+                    <a href="https://discord.gg/mZ6pTneMx3" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
                             <?php _e( 'Join Discord', 'blocknet' ); ?>
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
                     <a href="https://t.me/Blocknet" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
@@ -202,7 +202,7 @@
             </div>
             <div id="w-node-5181204afa75-204afa2d" class="social-media-icons-wrap">
                 <a href="https://t.me/Blocknet" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-telegram.svg" width="30" alt="" class="social-media-icon"></a>
-                <a href="https://discord.gg/Nz7Dy4j" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-discord.svg" width="30" alt="" class="social-media-icon"></a>
+                <a href="https://discord.gg/mZ6pTneMx3" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-discord.svg" width="30" alt="" class="social-media-icon"></a>
                 <a href="https://twitter.com/The_Blocknet" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-twitter.svg" width="30" alt="" class="social-media-icon"></a>
                 <a href="https://www.reddit.com/r/theblocknet/" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-reddit.svg" width="30" alt="" class="social-media-icon"></a>
                 <a href="https://en-gb.facebook.com/theblocknet/" target="_blank" class="sm-link-block w-inline-block"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/icon-facebook.svg" width="30" alt="" class="social-media-icon"></a>

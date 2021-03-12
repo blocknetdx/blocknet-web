@@ -34,7 +34,7 @@
                     </div>
                 </div>
                 <nav class="nav-sub-menu w-dropdown-list">
-                    <a href="https://discord.gg/Nz7Dy4j" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
+                    <a href="https://discord.gg/mZ6pTneMx3" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
                             <?php _e( 'Join Discord', 'blocknet' ); ?>
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
                     <a href="https://t.me/Blocknet" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
