@@ -1,21 +1,22 @@
 <!DOCTYPE html>
 <!--  This site was created in Webflow. http://www.webflow.com  -->
 <!--  Last Published: Mon Sep 14 2020 11:49:56 GMT+0000 (Coordinated Universal Time)  -->
-<html data-wf-page="5f27d25457d2ed4f0fafcc0d" data-wf-site="5f1960143510ee817fa57da1">
+<html data-wf-page="5f2808189472416fe2f329f9" data-wf-site="5f1960143510ee817fa57da1">
 <head>
   <meta charset="utf-8">
-  <title>Get Started with Blocknet - Use</title>
-  <meta content="Get Started with Blocknet - Use" property="og:title">
+  <title>Brand Resources</title>
+  <meta content="Brand Resources" property="og:title">
+
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
-    
+
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@The_Blocknet">
 <meta name="twitter:creator" content="@The_Blocknet">
 <meta name="twitter:title" content="Blocknet - The Internet of Blockchains">
 <meta name="twitter:description" content="The Blocknet is a decentralized network and protocol suite for seamless cross-blockchain interoperability.">
 <meta name="twitter:image" content="https://blocknet.co/images/twitter-card.png">
-   
+    
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
   <link href="css/webflow.css" rel="stylesheet" type="text/css">
   <link href="css/blocknet-website-project.webflow.css?v=1.0.4" rel="stylesheet" type="text/css">
@@ -55,8 +56,7 @@
 <body class="body">
   <div data-animation="default" class="navbar w-nav" data-easing2="ease-in-out" data-easing="ease-in-out" data-collapse="medium" data-w-id="d35dffeb-0076-0599-6e1c-5bcf354f093e" role="banner" data-duration="400" data-doc-height="1">
     <div class="navbar-wrap"><a href="https://blocknet.co" class="brand w-nav-brand"><img src="images/blocknet-logo-dark.png" alt="" class="logo"></a>
-      <nav role="navigation" class="nav-menu light w-nav-menu"><a href="blocknet-protocol" class="nav-link">Protocol</a>
-          <a href="built-on-blocknet" class="nav-link">Solutions</a>
+      <nav role="navigation" class="nav-menu light w-nav-menu"><a href="blocknet-protocol" class="nav-link">Protocol</a><a href="built-on-blocknet" class="nav-link">Solutions</a>
         <div data-hover="" data-delay="200" class="nav-link nav-with-sub w-dropdown">
           <div class="dropdown-toggle light w-dropdown-toggle" data-ix="nav-sub-menu-open">
             <div>Developers</div>
@@ -89,48 +89,29 @@
       </div>
     </div>
   </div>
-  <div class="section selector-section">
-    <div class="container">
-      <div class="get-started-options-wrap"><a href="learn-about-blocknet" class="get-started-options-link">Learn</a><a href="use-blocknet" aria-current="page" class="get-started-options-link w--current">Use</a><a href="build-with-blocknet" class="get-started-options-link">Build</a><a href="contribute-to-blocknet" class="get-started-options-link">Contribute</a></div>
-    </div>
-  </div>
-  <div class="section hero-section">
-    <div class="container">
-      <div class="hero-content-wrap">
-        <div class="hero-headline-small">Blocknet Solutions</div>
-        <div class="hero-content">There are many products and solutions already built on the Blocknet protocol that you can use today.</div>
-        <div class="big-down-arrow"><img src="images/arrow-big-down-dark.svg" loading="lazy" alt=""></div>
-      </div>
-    </div>
-    <div class="shape-squares sqrs-contribute"><img src="images/stack-sqr-orange.svg" alt="" class="sqr _1"><img src="images/stack-sqr-orange.svg" alt="" class="sqr _2"><img src="images/stack-sqr-orange.svg" alt="" class="sqr _3"><img src="images/stack-sqr-orange.svg" alt="" class="sqr _4"></div>
-    <div class="get-started-huge-title light">Use</div>
-  </div>
-  <div class="section section-features">
+  <div class="section brand-resources-section grey-bg">
     <div class="container">
       <div class="section-heading-wrap">
-        <h1>Decentralized and Open Source</h1>
-        <div class="sub-header">A decentralized ecosystem of open-source, real-world solutions.</div>
+        <h1>Brand Resources</h1>
+        <div class="sub-header"><br></div>
       </div>
-      <div class="w-layout-grid get-started-grid _3cols">
-        <div id="w-node-6ec040274469-0fafcc0d" class="feature-wrap">
-          <div class="icon-feature"><img src="images/blockdx.svg" alt=""></div>
-          <h3 class="feature-grid-title">Block DX</h3>
-          <p>Block DX is a completely decentralized and trustless exchange built on the Blocknet Protocol that mimics a centralized exchange experience and enables traders to conduct exchanges directly from the wallets of the coins being traded.</p><a href="http://blockdx.com" target="_blank" class="link blue external">Learn more</a></div>
-        <div id="w-node-6ec040274474-0fafcc0d" class="feature-wrap">
-          <div class="icon-feature"><img src="images/xlite-icon.svg" alt=""></div>
-          <h3 class="feature-grid-title">XLite Wallet</h3>
-          <p>Securely store and manage your cryptocurrencies with the new lightweight wallet built by <strong>Cloudchains Inc.</strong> and powered by the <strong>Blocknet</strong> protocol.</p><a href="http://xlitewallet.com" target="_blank" class="link blue external">Read about XLite</a></div>
-        <div id="w-node-6ec04027447f-0fafcc0d" class="feature-wrap">
-          <div class="icon-feature"><img src="images/blocknet-wallet.svg" alt=""></div>
-          <h3 class="feature-grid-title">Staking Wallet</h3>
-          <p>The official Blocknet wallet allows you to securely manage your BLOCK. With a simple-to-use interface and advanced features it is a core product of the Blocknet project.</p><a href="https://docs.blocknet.co/wallet/setup/" target="_blank" class="link blue external">Find out more</a></div>
-<!--
-        <div id="w-node-febf13af554d-0fafcc0d" class="feature-wrap">
-          <div class="icon-feature"><img src="images/xcloud.svg" alt=""></div>
-          <h3 class="feature-grid-title">XCloud</h3>
-          <p>XCloud is a decentralized microservice cloud network powered by XRouter that allows for interaction with microservices, blockchains, APIs, and cloud tech that&#x27;s hosted by Service Nodes.</p><a href="https://docs.blocknet.co/protocol/xcloud/introduction/" target="_blank" class="link blue external">Get started with XCloud</a></div>
--->
-      </div>
+      <h3>Logos</h3>
+      <p></p>
+      <div class="w-layout-grid branding-grid">
+          <a id="w-node-381dd6159bc4-e2f329f9" data-w-id="7494d72e-9a95-ed36-d8f7-381dd6159bc4" href="/resources/blocknet-logos.zip" target="_blank" class="brand-logo-wrap w-inline-block"><img src="images/blocknet-logo-dark2x.png" width="223.5" alt="" class="brand-logo"><div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="brand-logo-hover-overlay"></div><div style="opacity:0" class="brand-logo-download-text">Download</div></a>
+          <a data-w-id="7430b50d-05fe-5445-e259-19333deef342" href="/resources/blockdx-logos.zip" target="_blank" class="brand-logo-wrap w-inline-block"><img src="images/blockdx-logo-dark2x.png" width="208.5" alt="" class="brand-logo"><div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="brand-logo-hover-overlay"></div><div style="opacity:0" class="brand-logo-download-text">Download</div></a>
+          <a data-w-id="2d462248-5d74-b95a-eef0-a0eb71e70028" href="/resources/xrouter-logos.zip" target="_blank" class="brand-logo-wrap w-inline-block"><img src="images/xrouter-logo-dark2x.png" width="171.5" alt="" class="brand-logo"><div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="brand-logo-hover-overlay"></div><div style="opacity:0" class="brand-logo-download-text">Download</div></a>
+          <a id="w-node-225903916216-e2f329f9" data-w-id="bcbaa9a2-df79-e303-fd1d-225903916216" href="/resources/xbridge-logos.zip" target="_blank" class="brand-logo-wrap w-inline-block"><img src="images/xbridge-logo-dark2x.png" width="162" alt="" class="brand-logo"><div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="brand-logo-hover-overlay"></div><div style="opacity:0" class="brand-logo-download-text">Download</div></a>
+        </div>
+      <div class="branding-section-wrap">
+        <h3>Blocknet Brand Guidelines</h3>
+        <p>The purpose of these guidelines is to ensure that the Blocknet identity is clearly and consistently expressed across every communication channel. Consistent and correct usage of our identity in all applications will drive brand recognition and help to elevate brand preference.</p><a href="/resources/Blocknet-Brand-Guidelines.pdf" target="_blank" class="link blue download">Download the brand guidelines</a></div>
+      <div class="branding-section-wrap">
+        <h3>Fonts</h3>
+          <p><a href="https://fonts.google.com/specimen/IBM+Plex+Sans">IBM Plex Sans</a></p>
+          <p><a href="https://fonts.google.com/specimen/Roboto">Roboto</a></p>
+          <p><a href="https://fonts.google.com/specimen/Roboto+Mono">Roboto Mono</a></p>
+        </div>
     </div>
   </div>
   <div class="section newsletter-section">
@@ -166,9 +147,9 @@
         <h5 id="w-node-5181204afa34-204afa2d">Developers</h5>
         <h5 id="w-node-5181204afa36-204afa2d">Exchanges</h5>
         <div id="w-node-5181204afa38-204afa2d" class="footer-links-list"><a href="blocknet-protocol" class="footer-link">Protocol</a><a href="built-on-blocknet" class="footer-link">Solutions</a><a href="build-with-blocknet" class="footer-link">Developers</a><a href="downloads" class="footer-link">Downloads</a><a href="https://chainz.cryptoid.info/block/" target="_blank" class="footer-link">Explorer</a><a href="roadmap" class="footer-link">Roadmap</a><a href="https://medium.com/blocknet" target="_blank" class="footer-link">Blog</a></div>
-        <div id="w-node-5181204afa47-204afa2d" class="footer-links-list"><a href="https://docs.blocknet.co" target="_blank" class="footer-link">Documentation Portal</a><a href="https://docs.blocknet.co/service-nodes/introduction/" target="_blank" class="footer-link">Service Nodes Guide</a><a href="https://docs.blocknet.co/wallet/setup/" target="_blank" class="footer-link">Staking Wallet Guide</a><a href="https://docs.blocknet.co/governance/introduction/" target="_blank" class="footer-link">Governance</a><a href="brand-resources" class="footer-link">Brand Resources</a></div>
+        <div id="w-node-5181204afa47-204afa2d" class="footer-links-list"><a href="https://docs.blocknet.co" target="_blank" class="footer-link">Documentation Portal</a><a href="https://docs.blocknet.co/service-nodes/introduction/" target="_blank" class="footer-link">Service Nodes Guide</a><a href="https://docs.blocknet.co/wallet/setup/" target="_blank" class="footer-link">Staking Wallet Guide</a><a href="https://docs.blocknet.co/governance/introduction/" target="_blank" class="footer-link">Governance</a><a href="brand-resources" aria-current="page" class="footer-link w--current">Brand Resources</a></div>
         <div id="w-node-5181204afa54-204afa2d" class="footer-links-list"><a href="https://api.blocknet.co/#getting-started" target="_blank" class="footer-link">Getting Started Guides</a><a href="https://github.com/blocknetdx/" target="_blank" class="footer-link">GitHub</a><a href="https://api.blocknet.co" target="_blank" class="footer-link">API Docs</a></div>
-        <div id="w-node-5181204afa5b-204afa2d" class="footer-links-list"><a href="http://blockdx.com" target="_blank" class="footer-link">Block DX</a><a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link">Bittrex</a><a href="https://www.digifinex.vip/en-ww/trade/BTC/BLOCK" target="_blank" class="footer-link">DigiFinex</a><a href="https://vcc.exchange/exchange/basic?currency=btc&amp;coin=block" target="_blank" class="footer-link">VCC Exchange</a><a href="https://www.finexbox.com/market/pair/BLOCK-BTC.html" target="_blank" class="footer-link">Finexbox</a><a href="https://stakecube.net/app/exchange/BLOCK_BTC" target="_blank" class="footer-link">Stakecube</a><a href="https://www.altilly.com/market/BLOCK_BTC" target="_blank" class="footer-link">Altilly</a></div>
+        <div id="w-node-5181204afa5b-204afa2d" class="footer-links-list"><a href="http://blockdx.com" target="_blank" class="footer-link">Block DX</a><a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link">Bittrex</a><a href="https://www.digifinex.vip/en-ww/trade/BTC/BLOCK" target="_blank" class="footer-link">DigiFinex</a><a href="https://www.finexbox.com/market/pair/BLOCK-BTC.html" target="_blank" class="footer-link">Finexbox</a><a href="https://stakecube.net/app/exchange/BLOCK_BTC" target="_blank" class="footer-link">Stakecube</a></div>
       </div>
       <div class="w-layout-grid footer-bottom-grid"><a id="w-node-5181204afa6c-204afa2d" href="https://blocknet.co" class="logo-footer-link w-inline-block"><img src="images/blocknet-logo-white.png" height="30" alt=""></a>
         <div id="w-node-5181204afa6e-204afa2d" class="footer-legal-links-wrap"><a href="#" class="footer-legal-link">© Copyright 2021</a></div>
@@ -179,10 +160,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="js/webflow.js" type="text/javascript"></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-  <style>
-    .w-slider-dot {background: #CFCFCF;height:12px;width:12px;}
-    .w-slider-dot.w-active {background: #0064F1;}
-</style>
 <script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-account="91621" data-user="81454" async></script>
     <style>
         .jerseycity-powered-by {display: none !important}

@@ -1,23 +1,24 @@
 <!DOCTYPE html>
 <!--  This site was created in Webflow. http://www.webflow.com  -->
 <!--  Last Published: Mon Sep 14 2020 11:49:56 GMT+0000 (Coordinated Universal Time)  -->
-<html data-wf-page="5f27d94a2edf61fc2c499726" data-wf-site="5f1960143510ee817fa57da1">
+<html data-wf-page="5f22e317b205c29a164142af" data-wf-site="5f1960143510ee817fa57da1">
 <head>
   <meta charset="utf-8">
-  <title>Build decentralized apps with Blocknet</title>
-  <meta content="Build decentralized apps with Blockent" property="og:title">
-
+  <title>Protocol</title>
+  <meta content="Protocol" property="og:title">
+  <meta content="Protocol" property="twitter:title">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
- 
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/webflow.css" rel="stylesheet" type="text/css">
+    
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@The_Blocknet">
 <meta name="twitter:creator" content="@The_Blocknet">
 <meta name="twitter:title" content="Blocknet - The Internet of Blockchains">
 <meta name="twitter:description" content="The Blocknet is a decentralized network and protocol suite for seamless cross-blockchain interoperability.">
 <meta name="twitter:image" content="https://blocknet.co/images/twitter-card.png">
-     <link href="css/normalize.css" rel="stylesheet" type="text/css">
-  <link href="css/webflow.css" rel="stylesheet" type="text/css">
+    
   <link href="css/blocknet-website-project.webflow.css?v=1.0.4" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
   <script type="text/javascript">WebFont.load({  google: {    families: ["IBM Plex Sans:300,regular,italic,500,600,700"]  }});</script>
@@ -55,7 +56,7 @@
 <body class="body dark">
   <div data-collapse="medium" data-animation="default" data-duration="400" role="banner" class="navbar-dark w-nav">
     <div class="navbar-wrap"><a href="https://blocknet.co" class="brand w-nav-brand"><img src="images/blocknet-logo-white.png" alt=""></a>
-      <nav role="navigation" class="nav-menu dark w-nav-menu"><a href="blocknet-protocol" class="nav-link dark">Protocol</a><a href="built-on-blocknet" class="nav-link dark">Solutions</a>
+      <nav role="navigation" class="nav-menu dark w-nav-menu"><a href="blocknet-protocol" aria-current="page" class="nav-link dark w--current">Protocol</a><a href="built-on-blocknet" class="nav-link dark">Solutions</a>
         <div data-hover="" data-delay="200" class="nav-link nav-with-sub w-dropdown">
           <div class="dropdown-toggle dark w-dropdown-toggle" data-ix="nav-sub-menu-open">
             <div>Developers</div>
@@ -88,46 +89,52 @@
       </div>
     </div>
   </div>
-  <div class="section selector-section dark">
-    <div class="container">
-      <div class="get-started-options-wrap"><a href="learn-about-blocknet" class="get-started-options-link dark">Learn</a><a href="use-blocknet" class="get-started-options-link dark">Use</a><a href="build-with-blocknet" aria-current="page" class="get-started-options-link dark w--current">Build</a><a href="contribute-to-blocknet" class="get-started-options-link dark">Contribute</a></div>
-    </div>
-  </div>
-  <div class="section hero-section hero-dark">
-    <div class="container">
-      <div class="hero-content-wrap">
-        <div class="hero-headline-small">Build with Blocknet</div>
-        <div class="hero-content">The Blocknet Protocol allows developers to build multi-chain applications and blockchain microservices by enabling communication, interaction, and exchange between different blockchains.</div>
-        <div class="big-down-arrow"><img src="images/arrow-big-down-white.svg" loading="lazy" alt=""></div>
-      </div>
-    </div>
-    <div class="shape-squares sqrs-build"><img src="images/stack-sqr-blue.svg" alt="" class="sqr _1"><img src="images/stack-sqr-blue.svg" alt="" class="sqr _2"><img src="images/stack-sqr-blue.svg" alt="" class="sqr _3"><img src="images/stack-sqr-blue.svg" alt="" class="sqr _4"></div>
-  </div>
-  <div class="section section-features dark">
-    <div class="container">
+  <div id="components" class="section build-section-full-view">
+    <div class="container align-center">
       <div class="section-heading-wrap">
-        <h1>Open Source Ecosystem</h1>
-        <div class="sub-header">The Blocknet Protocol enables decentralized communication and exchange between different blockchains in a permissionless and trustless manner. <br>This is achieved through the use of the TCP/IP networking layer for communication, P2P atomic swaps using BIP65 for exchange, and a DHT overlay network to host the full nodes of compatible blockchains, host microservices, and protect the network from spam and DOS.</div>
+        <h1>Build with Blocknet Components</h1>
+        <div class="sub-header">The Blocknet Protocol is designed to maximize interoperability between different blockchains. Just as the internet connected computers, the Blocknet Protocol is critical for blockchains to communicate and realize full potential.</div>
       </div>
-      <div class="w-layout-grid get-started-grid _2cols">
-        <div id="w-node-6ec040274469-2c499726" class="feature-wrap">
-          <div class="icon-feature"><img src="images/code.svg" alt=""></div>
-          <h3 class="feature-grid-title">Blocknet on GitHub</h3>
-          <p>The Blocknet projects are open to all contributors, whether blockchain experts or enthusiasts. We welcome everyone to view our open source code and start contributing.</p><a href="https://github.com/blocknetdx/blocknet/blob/master/README.md" target="_blank" class="link blue external">Join us on GitHub</a></div>
-        <div id="w-node-6ec040274474-2c499726" class="feature-wrap">
-          <div class="icon-feature"><img src="images/docs-blue.svg" alt=""></div>
-          <h3 class="feature-grid-title">Documentation</h3>
-          <p>Whether you&#x27;re an expert developer or an enthusiastic beginner, our open source code and extensive documentation provides everything you need to get started building with Blocknet.</p><a href="https://docs.blocknet.co" class="link blue external">View the docs</a></div>
-        <div id="w-node-6ec04027447f-2c499726" class="feature-wrap">
-          <div class="icon-feature"><img src="images/api-new-blue.svg" alt=""></div>
-          <h3 class="feature-grid-title">Blocknet API</h3>
-          <p>Blocknet provides a simple and powerful API to build previously impossible multi-chain applications that consume services on different blockchains, all while remaining 100% trustless and decentralized.</p><a href="https://api.blocknet.co" class="link blue external">Find out more</a></div>
-        <div id="w-node-febf13af554d-2c499726" class="feature-wrap">
-          <div class="icon-feature"><img src="images/dev-community.svg" alt=""></div>
-          <h3 class="feature-grid-title">Developer Community</h3>
-          <p>Blocknet is an open-source project with a development team consisting of contributors from around the world, working together at both official and unofficial capacities.</p><a href="https://discord.gg/mZ6pTneMx3" class="link blue external">Join the developers</a></div>
+      <div class="protocol-big-wrapper mobile-reverse w-row">
+        <div class="w-col w-col-5 w-col-stack">
+          <div id="w-node-2d8025dec6ff-164142af" class="comp-content text-left">
+            <div class="subtitle blue-highllght">Connecting dApps</div>
+            <h2><strong>Blockchain Communication</strong></h2>
+            <p>XRouter is a decentralized communication layer that connects bulky blockchain networks to the lightweight multi-chain dApps of the future.<br><br>With XRouter, dApps can consume services and verify data on any blockchain, without the need to host blockchains locally.<br><br>By harnessing the Blocknet’s interchain overlay network (i.e. service nodes) and SPV proofs, XRouter empowers developers to build lightweight dApps that are decentralized from the ground up, and can be composed of services and contracts on many chains.<br></p>
+            <a href="build-with-blocknet" class="button w-inline-block">
+              <div class="button-inner-wrap">
+                <div class="button-text">Start building</div><img src="images/icon-chevron-right-24px-white.svg" alt="" class="btn-icon"></div>
+            </a><a href="https://api.blocknet.co/#xrouter" target="_blank" class="link text-link-external light-text">Learn more about XRouter</a></div>
+        </div>
+        <div class="w-col w-col-7 w-col-stack">
+          <div class="protocol-logo"><img src="images/XRouter_hor_light_RGB.png" loading="lazy" width="200" srcset="images/XRouter_hor_light_RGB-p-500.png 500w, images/XRouter_hor_light_RGB-p-800.png 800w, images/XRouter_hor_light_RGB-p-1080.png 1080w, images/XRouter_hor_light_RGB-p-1600.png 1600w, images/XRouter_hor_light_RGB-p-2000.png 2000w, images/XRouter_hor_light_RGB.png 3556w" sizes="(max-width: 479px) 79vw, 200px" alt=""></div>
+          <div class="protocol-image-wrap"><img src="images/xrouter-img.svg" loading="lazy" alt=""></div>
+        </div>
+      </div>
+      <div class="protocol-big-wrapper w-row">
+        <div class="w-col w-col-7 w-col-stack">
+          <div class="protocol-logo"><img src="images/XBridge_hor_light_RGB.png" loading="lazy" width="200" srcset="images/XBridge_hor_light_RGB-p-500.png 500w, images/XBridge_hor_light_RGB-p-800.png 800w, images/XBridge_hor_light_RGB-p-1080.png 1080w, images/XBridge_hor_light_RGB-p-1600.png 1600w, images/XBridge_hor_light_RGB-p-2000.png 2000w, images/XBridge_hor_light_RGB-p-2600.png 2600w, images/XBridge_hor_light_RGB.png 3353w" sizes="(max-width: 479px) 79vw, 200px" alt=""></div>
+          <div class="protocol-image-wrap"><img src="images/xbridge-img.svg" loading="lazy" alt=""></div>
+        </div>
+        <div class="w-col w-col-5 w-col-stack">
+          <div class="comp-content text-right">
+            <div class="subtitle green-highllght">Connecting Blockchains</div>
+            <h2><strong>Blockchain Exchange</strong></h2>
+            <p>XBridge is a decentralized exchange layer that connects any blockchain asset via cross-chain atomic swaps.<br><br>XBridge was designed from the ground up to decentralize each component of the exchange process, including storage of funds, orderbooks, order broadcast and settlement.<br><br>The Blocknet’s interchain overlay network (i.e. service nodes) provides an additional layer of security checks and prevent network spam.</p>
+            <a href="build-with-blocknet" class="button w-inline-block">
+              <div class="button-inner-wrap">
+                <div class="button-text">Start building</div><img src="images/icon-chevron-right-24px-white.svg" alt="" class="btn-icon"></div>
+            </a><a href="https://api.blocknet.co/#xbridge" target="_blank" class="link text-link-external light-text">Learn more about XBridge</a></div>
+        </div>
       </div>
     </div>
+  </div>
+  <div class="big-cta-wrap dark">
+    <div class="feature-text">Interested in building the next generation of decentralized applications? Start building today with the Blocknet protocol.</div>
+    <a href="build-with-blocknet" class="button-ghost w-inline-block">
+      <div class="button-inner-wrap">
+        <div class="button-text">Build with Blocknet</div><img src="images/icon-chevron-right-24px-white.svg" alt="" class="btn-icon"></div>
+    </a>
   </div>
   <div class="section newsletter-section dark">
     <div class="container">
@@ -161,10 +168,10 @@
         <h5>Documentation</h5>
         <h5 id="w-node-5181204afa34-204afa2d">Developers</h5>
         <h5 id="w-node-5181204afa36-204afa2d">Exchanges</h5>
-        <div id="w-node-5181204afa38-204afa2d" class="footer-links-list"><a href="blocknet-protocol" class="footer-link">Protocol</a><a href="built-on-blocknet" class="footer-link">Solutions</a><a href="build-with-blocknet" aria-current="page" class="footer-link w--current">Developers</a><a href="downloads" class="footer-link">Downloads</a><a href="https://chainz.cryptoid.info/block/" target="_blank" class="footer-link">Explorer</a><a href="roadmap" class="footer-link">Roadmap</a><a href="https://medium.com/blocknet" target="_blank" class="footer-link">Blog</a></div>
+        <div id="w-node-5181204afa38-204afa2d" class="footer-links-list"><a href="blocknet-protocol" aria-current="page" class="footer-link w--current">Protocol</a><a href="built-on-blocknet" class="footer-link">Solutions</a><a href="build-with-blocknet" class="footer-link">Developers</a><a href="downloads" class="footer-link">Downloads</a><a href="https://chainz.cryptoid.info/block/" target="_blank" class="footer-link">Explorer</a><a href="roadmap" class="footer-link">Roadmap</a><a href="https://medium.com/blocknet" target="_blank" class="footer-link">Blog</a></div>
         <div id="w-node-5181204afa47-204afa2d" class="footer-links-list"><a href="https://docs.blocknet.co" target="_blank" class="footer-link">Documentation Portal</a><a href="https://docs.blocknet.co/service-nodes/introduction/" target="_blank" class="footer-link">Service Nodes Guide</a><a href="https://docs.blocknet.co/wallet/setup/" target="_blank" class="footer-link">Staking Wallet Guide</a><a href="https://docs.blocknet.co/governance/introduction/" target="_blank" class="footer-link">Governance</a><a href="brand-resources" class="footer-link">Brand Resources</a></div>
         <div id="w-node-5181204afa54-204afa2d" class="footer-links-list"><a href="https://api.blocknet.co/#getting-started" target="_blank" class="footer-link">Getting Started Guides</a><a href="https://github.com/blocknetdx/" target="_blank" class="footer-link">GitHub</a><a href="https://api.blocknet.co" target="_blank" class="footer-link">API Docs</a></div>
-        <div id="w-node-5181204afa5b-204afa2d" class="footer-links-list"><a href="http://blockdx.com" target="_blank" class="footer-link">Block DX</a><a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link">Bittrex</a><a href="https://www.digifinex.vip/en-ww/trade/BTC/BLOCK" target="_blank" class="footer-link">DigiFinex</a><a href="https://www.finexbox.com/market/pair/BLOCK-BTC.html" target="_blank" class="footer-link">Finexbox</a><a href="https://stakecube.net/app/exchange/BLOCK_BTC" target="_blank" class="footer-link">Stakecube</a><a href="https://www.altilly.com/market/BLOCK_BTC" target="_blank" class="footer-link">Altilly</a></div>
+        <div id="w-node-5181204afa5b-204afa2d" class="footer-links-list"><a href="http://blockdx.com" target="_blank" class="footer-link">Block DX</a><a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link">Bittrex</a><a href="https://www.digifinex.vip/en-ww/trade/BTC/BLOCK" target="_blank" class="footer-link">DigiFinex</a><a href="https://www.finexbox.com/market/pair/BLOCK-BTC.html" target="_blank" class="footer-link">Finexbox</a><a href="https://stakecube.net/app/exchange/BLOCK_BTC" target="_blank" class="footer-link">Stakecube</a></div>
       </div>
       <div class="w-layout-grid footer-bottom-grid"><a id="w-node-5181204afa6c-204afa2d" href="https://blocknet.co" class="logo-footer-link w-inline-block"><img src="images/blocknet-logo-white.png" height="30" alt=""></a>
         <div id="w-node-5181204afa6e-204afa2d" class="footer-legal-links-wrap"><a href="#" class="footer-legal-link">© Copyright 2021</a></div>
@@ -175,10 +182,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="js/webflow.js" type="text/javascript"></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-  <style>
-    .w-slider-dot {background: #CFCFCF;height:12px;width:12px;}
-    .w-slider-dot.w-active {background: #0064F1;}
-</style>
 <script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-account="91621" data-user="81454" async></script>
     <style>
         .jerseycity-powered-by {display: none !important}
