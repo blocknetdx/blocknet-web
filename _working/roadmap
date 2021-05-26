@@ -137,12 +137,20 @@
                     <div class="roadmap-meta blockdx">Block DX</div>
                   </div>
                 </div>
-                
-                  <div class="roadmap-item-wrap">
+                  
+                <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">XRouter JS library</h4>
                   <p>Enables developers to use XRouter without the Blocknet wallet for lightweight plug-and-play integration.</p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta xrouter">XRouter</div>
+                  </div>
+                </div>
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Segwit Address Support<br></h4>
+                  <p>Support the use of Segwit (p2wpkh) addresses.<br></p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta xbridge">xbridge</div>
+                    <div class="roadmap-meta blockdx">BLOCK DX</div>
                   </div>
                 </div>
               </div>
@@ -299,14 +307,6 @@
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta xrouter">Xrouter</div>
                     <div class="roadmap-meta xcloud">xcloud</div>
-                  </div>
-                </div>
-                  <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Segwit Address Support<br></h4>
-                  <p>Support the use of Segwit (p2wpkh) addresses.<br></p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta xbridge">xbridge</div>
-                    <div class="roadmap-meta blockdx">BLOCK DX</div>
                   </div>
                 </div>
                 <div class="roadmap-item-wrap">
