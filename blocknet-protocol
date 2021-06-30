@@ -82,7 +82,10 @@
             <a href="#" class="nav-sub-menu-link-external dark w-inline-block">
               <div class="nav-sub-link external">Proposal Forum</div><img src="images/external-link-20px-white.svg" alt="" class="icon-external light"></a>
           </nav>
-        </div><a href="https://medium.com/blocknet" target="_blank" class="nav-link dark">Blog</a><a href="roadmap" class="nav-link dark">Roadmap</a></nav>
+        </div><a href="https://medium.com/blocknet" target="_blank" class="nav-link dark">Blog</a>
+        <a href="roadmap" class="nav-link dark">Roadmap</a>
+        <a href="https://blocknet.co/#exchanges" class="nav-link dark nav-blue">Buy BLOCK</a>
+        </nav>
       <div class="mobile-menu-button w-nav-button">
         <div class="nav-btn-line-bottom top dark"></div>
         <div class="nav-btn-line-bottom bottom dark"></div>

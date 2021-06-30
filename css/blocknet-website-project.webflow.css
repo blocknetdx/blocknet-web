@@ -715,6 +715,10 @@ figcaption {
   font-size: 15px;
 }
 
+.nav-blue {
+    color:#0065f3 !important;
+}
+
 .nav-link:hover {
   color: #0057d3;
 }
