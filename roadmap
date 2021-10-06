@@ -132,7 +132,13 @@
                     <div class="roadmap-meta blockdx">Block DX</div>
                   </div>
                 </div>
-                  
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">XQuery decentralized indexer</h4>
+                  <p>A decentralized GraphQL indexer for Avalanche and Ethereum chain data</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta xrouter">XRouter</div>
+                  </div>
+                </div>  
                 <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">XRouter JS library</h4>
                   <p>Enables developers to use XRouter without the Blocknet wallet for lightweight plug-and-play integration.</p>
@@ -141,7 +147,7 @@
                   </div>
                 </div>
                 <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Segwit Address Support<br></h4>
+                  <h4 class="roadmap-item-title">Segwit address support<br></h4>
                   <p>Support the use of Segwit (p2wpkh) addresses.<br></p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta xbridge">xbridge</div>
@@ -149,15 +155,7 @@
                   </div>
                 </div>
                 <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Dynamic fees<br></h4>
-                  <p>Replace static fees for BTC and other assets with dynamic fees.<br></p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta xbridge">xbridge</div>
-                    <div class="roadmap-meta blockdx">BLOCK DX</div>
-                  </div>
-                </div>
-                <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Partial Order Support</h4>
+                  <h4 class="roadmap-item-title">Partial order support</h4>
                   <p>Support for partial orders in Block DX.</p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta blockdx">BLOCK DX</div>
@@ -177,6 +175,14 @@
               <div class="roadmap-quarter-wrap">
             <h4 class="roadmap-subtitle">Projects in the planning stage</h4>
               <div class="w-layout-grid roadmap-items-grid">
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Dynamic fees<br></h4>
+                  <p>Replace static fees for BTC and other assets with dynamic fees.<br></p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta xbridge">xbridge</div>
+                    <div class="roadmap-meta blockdx">BLOCK DX</div>
+                  </div>
+                </div>
                 <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Support for 8 decimal places in Block DX</h4>
                  <p>Support for 8 decimal places in the Block DX UI.</p>
