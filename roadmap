@@ -520,6 +520,33 @@
           </div>
           <div data-w-tab="tab-completed" class="completed w-tab-pane">
             <div class="roadmap-quarter-wrap">
+              <h4 class="roadmap-subtitle">Q3 2021</h4>
+              <div class="w-layout-grid roadmap-items-grid">
+               <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Automated Service Node setup tool</h4>
+                  <p>An automated Docker-based EXR Service Node setup script enabling fast and consistent SNode setup.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta xbridge">XBridge</div>
+                      <div class="roadmap-meta xrouter">XRouter</div>
+                  </div>
+                </div>
+                  <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Blocknet Core wallet 4.3.3</h4>
+                  <p>Various bug fixes and support for testnet.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta core">Core</div>
+                  </div>
+                </div>
+                  <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">XLite Wallet v1.0.4</h4>
+                  <p>Various bug fixes and UI improvements</p>
+                      <div class="roadmap-tags-wrap">
+                           <div class="roadmap-meta xlite">XLite</div>
+                      </div>
+                </div>
+                </div>
+              </div>
+              <div class="roadmap-quarter-wrap">
               <h4 class="roadmap-subtitle">Q1 2021</h4>
               <div class="w-layout-grid roadmap-items-grid">
                <div class="roadmap-item-wrap">
@@ -540,8 +567,7 @@
                   <h4 class="roadmap-item-title">XLite Multi-asset Wallet</h4>
                   <p>Trade on Block DX without downloading additional chains using XLite, the lightweight, multi-asset wallet developed by Blocknet and CloudChains Inc.</p>
                   <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta blockdx">Block DX</div>
-                    <div class="roadmap-meta partnership">Partnership</div>
+                    <div class="roadmap-meta xlite">XLite</div>
                   </div>
                 </div>
                   <div class="roadmap-item-wrap">
@@ -1365,10 +1391,10 @@
         <h5>Documentation</h5>
         <h5 id="w-node-5181204afa34-204afa2d">Developers</h5>
         <h5 id="w-node-5181204afa36-204afa2d">Exchanges</h5>
-        <div id="w-node-5181204afa38-204afa2d" class="footer-links-list"><a href="blocknet-protocol" class="footer-link">Protocol</a><a href="built-on-blocknet" class="footer-link">Solutions</a><a href="build-with-blocknet" class="footer-link">Developers</a><a href="downloads" class="footer-link">Downloads</a><a href="https://chainz.cryptoid.info/block/" target="_blank" class="footer-link">Explorer</a><a href="roadmap" aria-current="page" class="footer-link w--current">Roadmap</a><a href="https://medium.com/blocknet" target="_blank" class="footer-link">Blog</a></div>
+        <div id="w-node-5181204afa38-204afa2d" class="footer-links-list"><a href="blocknet-protocol" class="footer-link">Protocol</a><a href="built-on-blocknet" class="footer-link">Solutions</a><a href="build-with-blocknet" class="footer-link">Developers</a><a href="downloads" class="footer-link">Downloads</a><a href="roadmap" aria-current="page" class="footer-link w--current">Roadmap</a><a href="https://medium.com/blocknet" target="_blank" class="footer-link">Blog</a></div>
         <div id="w-node-5181204afa47-204afa2d" class="footer-links-list"><a href="https://docs.blocknet.co" target="_blank" class="footer-link">Documentation Portal</a><a href="https://docs.blocknet.co/service-nodes/introduction/" target="_blank" class="footer-link">Service Nodes Guide</a><a href="https://docs.blocknet.co/wallet/setup/" target="_blank" class="footer-link">Staking Wallet Guide</a><a href="https://docs.blocknet.co/governance/introduction/" target="_blank" class="footer-link">Governance</a><a href="brand-resources.html" class="footer-link">Brand Resources</a></div>
-        <div id="w-node-5181204afa54-204afa2d" class="footer-links-list"><a href="https://api.blocknet.co/#getting-started" target="_blank" class="footer-link">Getting Started Guides</a><a href="https://github.com/blocknetdx/" target="_blank" class="footer-link">GitHub</a><a href="https://api.blocknet.co" target="_blank" class="footer-link">API Docs</a></div>
-        <div id="w-node-5181204afa5b-204afa2d" class="footer-links-list"><a href="http://blockdx.com" target="_blank" class="footer-link">Block DX</a><a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link">Bittrex</a> <a href="https://main.southxchange.com/Market/Book/BLOCK/BTC" target="_blank" class="footer-link">SouthXchange</a><a href="https://www.digifinex.vip/en-ww/trade/BTC/BLOCK" target="_blank" class="footer-link">DigiFinex</a><a href="https://www.finexbox.com/market/pair/BLOCK-BTC.html" target="_blank" class="footer-link">Finexbox</a><a href="https://stakecube.net/app/exchange/BLOCK_BTC" target="_blank" class="footer-link">Stakecube</a></div>
+        <div id="w-node-5181204afa54-204afa2d" class="footer-links-list"><a href="https://api.blocknet.co/#getting-started" target="_blank" class="footer-link">Getting Started Guides</a><a href="https://github.com/blocknetdx/" target="_blank" class="footer-link">GitHub</a><a href="https://api.blocknet.co" target="_blank" class="footer-link">API Docs</a><a href="https://chainz.cryptoid.info/block/" target="_blank" class="footer-link">Chainz Explorer</a><a href="https://explorer.blocknet.co" target="_blank" class="footer-link">Blocknet Explorer</a></div>
+        <div id="w-node-5181204afa5b-204afa2d" class="footer-links-list"><a href="http://blockdx.com" target="_blank" class="footer-link">Block DX</a><a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link">Bittrex</a> <a href="https://main.southxchange.com/Market/Book/BLOCK/BTC" target="_blank" class="footer-link">SouthXchange</a><a href="https://www.finexbox.com/market/pair/BLOCK-BTC.html" target="_blank" class="footer-link">Finexbox</a><a href="https://stakecube.net/app/exchange/BLOCK_BTC" target="_blank" class="footer-link">Stakecube</a></div>
       </div>
       <div class="w-layout-grid footer-bottom-grid"><a id="w-node-5181204afa6c-204afa2d" href="https://blocknet.co" class="logo-footer-link w-inline-block"><img src="images/blocknet-logo-white.png" height="30" alt=""></a>
         <div id="w-node-5181204afa6e-204afa2d" class="footer-legal-links-wrap"><a href="#" class="footer-legal-link">© Copyright 2021</a></div>
