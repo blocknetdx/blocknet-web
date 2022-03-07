@@ -155,7 +155,7 @@
                 <a href="https://api.blocknet.co" target="_blank" class="footer-link"><?php _e( 'API Docs', 'blocknet' ); ?></a>
             </div>
             <div id="w-node-5181204afa5b-204afa2d" class="footer-links-list">
-                <a href="https://blockdx.com" target="_blank" class="footer-link"><?php _e( 'Block DX', 'blocknet' ); ?></a>
+                <a href="https://blockdx.net" target="_blank" class="footer-link"><?php _e( 'Block DX', 'blocknet' ); ?></a>
                 <a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link"><?php _e( 'Bittrex', 'blocknet' ); ?></a>
                 <a href="https://www.digifinex.vip/en-ww/trade/BTC/BLOCK" target="_blank" class="footer-link"><?php _e( 'DigiFinex', 'blocknet' ); ?></a>
                 <a href="https://vcc.exchange/exchange/basic?currency=btc&amp;coin=block" target="_blank" class="footer-link"><?php _e( 'VCC Exchange', 'blocknet' ); ?></a>
