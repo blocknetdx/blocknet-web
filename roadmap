@@ -118,21 +118,6 @@
                 <h4 class="roadmap-subtitle">Currently in development</h4>
               <div class="w-layout-grid roadmap-items-grid">
                 <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Support for 18 decimals in XBridge</h4>
-                  <p>Enabling 18 decimal places in XBridge to support ETH/ERC-20 integration throughout the Blocknet ecosystem.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta xbridge">xbridge</div>
-                  </div>
-                </div>
-                  <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">XBridge ETH/ERC-20 Atomic Swaps</h4>
-                  <p>Enabling trustless swaps of ETH/ERC-20 for supported assets on Block DX Exchange.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta xbridge">XBridge</div>
-                    <div class="roadmap-meta blockdx">Block DX</div>
-                  </div>
-                </div>
-                <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">XQuery decentralized indexer</h4>
                   <p>A decentralized GraphQL indexer for Avalanche and Ethereum chain data</p>
                   <div class="roadmap-tags-wrap">
@@ -144,6 +129,42 @@
                   <p>Enables developers to use XRouter without the Blocknet wallet for lightweight plug-and-play integration.</p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta xrouter">XRouter</div>
+                  </div>
+                </div>
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Block DX UI v2.0</h4>
+                      <p>A completely redesigned user-interface and improved trading experience.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta blockdx">Block dx</div>
+                  </div>
+                </div>
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Web 3.0 version of Block DX</h4>
+                  <p>A web-based decentralized and trustless trading platform, via cross-chain atomic swaps, with integrated XLite wallet.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta blockdx">BLOCK DX</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-w-tab="tab-planning" class="in-planning w-tab-pane">
+              <div class="roadmap-quarter-wrap">
+            <h4 class="roadmap-subtitle">Projects in the planning stage</h4>
+              <div class="w-layout-grid roadmap-items-grid">
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">Support for 18 decimals in XBridge</h4>
+                  <p>Enabling 18 decimal places in XBridge to support ETH/ERC-20 integration throughout the Blocknet ecosystem.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta xbridge">xbridge</div>
+                  </div>
+                </div>
+                <div class="roadmap-item-wrap">
+                  <h4 class="roadmap-item-title">XBridge ETH/ERC-20 Atomic Swaps</h4>
+                  <p>Enabling trustless swaps of ETH/ERC-20 for supported assets on Block DX Exchange.</p>
+                  <div class="roadmap-tags-wrap">
+                    <div class="roadmap-meta xbridge">XBridge</div>
+                    <div class="roadmap-meta blockdx">Block DX</div>
                   </div>
                 </div>
                 <div class="roadmap-item-wrap">
@@ -161,20 +182,6 @@
                     <div class="roadmap-meta blockdx">BLOCK DX</div>
                   </div>
                 </div>
-                <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Block DX UI v2.0</h4>
-                      <p>A completely redesigned user-interface and improved trading experience.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta blockdx">Block dx</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div data-w-tab="tab-planning" class="in-planning w-tab-pane">
-              <div class="roadmap-quarter-wrap">
-            <h4 class="roadmap-subtitle">Projects in the planning stage</h4>
-              <div class="w-layout-grid roadmap-items-grid">
                 <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Dynamic fees<br></h4>
                   <p>Replace static fees for BTC and other assets with dynamic fees.<br></p>
@@ -228,22 +235,12 @@
                     <div class="roadmap-meta blockdx">BLOCK DX</div>
                   </div>
                 </div>
-                <div class="roadmap-item-wrap">
-                  <h4 class="roadmap-item-title">Web 3.0 version of Block DX</h4>
-                  <p>A web-based decentralized and trustless trading platform, via cross-chain atomic swaps, with integrated XLite wallet.</p>
-                  <div class="roadmap-tags-wrap">
-                    <div class="roadmap-meta blockdx">BLOCK DX</div>
-                  </div>
-                </div>
-                  
-                
-                  
               </div>
             </div>
           </div>
           <div data-w-tab="tab-future" class="future w-tab-pane">
               <div class="roadmap-quarter-wrap">
-              <h4 class="roadmap-subtitle">2021 &amp; Beyond</h4>
+              <h4 class="roadmap-subtitle">2022 &amp; Beyond</h4>
               <div class="w-layout-grid roadmap-items-grid">
                   <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">XLite Android app</h4>
@@ -825,7 +822,7 @@
                 </div>
                 <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Right-Click Order Taking<br></h4>
-                  <p>Take orders faster by right-clicking on the order and selecting the “Take Order” option.<br></p>
+                  <p>Take orders faster by right-clicking on the order and selecting the "Take Order" option.<br></p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta blockdx">BLOCK DX</div>
                   </div>
@@ -853,7 +850,7 @@
                 </div>
                 <div class="roadmap-item-wrap">
                   <h4 class="roadmap-item-title">Order Details<br></h4>
-                  <p>View additional order details by right-clicking on the order and selecting the “View Details” option.<br></p>
+                  <p>View additional order details by right-clicking on the order and selecting the "View Details" option.<br></p>
                   <div class="roadmap-tags-wrap">
                     <div class="roadmap-meta blockdx">BLOCK DX</div>
                   </div>
@@ -1391,7 +1388,8 @@
         <h5>Documentation</h5>
         <h5 id="w-node-5181204afa34-204afa2d">Developers</h5>
         <h5 id="w-node-5181204afa36-204afa2d">Exchanges</h5>
-        <div id="w-node-5181204afa38-204afa2d" class="footer-links-list"><a href="blocknet-protocol" class="footer-link">Protocol</a><a href="built-on-blocknet" class="footer-link">Solutions</a><a href="build-with-blocknet" class="footer-link">Developers</a><a href="downloads" class="footer-link">Downloads</a><a href="roadmap" aria-current="page" class="footer-link w--current">Roadmap</a><a href="https://medium.com/blocknet" target="_blank" class="footer-link">Blog</a></div>
+        <div id="w-node-5181204afa38-204afa2d" class="footer-links-list"><a href="blocknet-protocol" aria-current="page" class="footer-link w—current">Protocol</a><a href="built-on-blocknet" class="footer-link">Solutions</a><a href="downloads" class="footer-link">Downloads</a><a href="roadmap" class="footer-link">Roadmap</a><a href="https://medium.com/blocknet" target="_blank" class="footer-link">Blog</a>
+<a href="https://staking.blocknet.co" target="_blank" class="footer-link">Staking Calculator</a></div>
         <div id="w-node-5181204afa47-204afa2d" class="footer-links-list"><a href="https://docs.blocknet.co" target="_blank" class="footer-link">Documentation Portal</a><a href="https://docs.blocknet.co/service-nodes/introduction/" target="_blank" class="footer-link">Service Nodes Guide</a><a href="https://docs.blocknet.co/wallet/setup/" target="_blank" class="footer-link">Staking Wallet Guide</a><a href="https://docs.blocknet.co/governance/introduction/" target="_blank" class="footer-link">Governance</a><a href="brand-resources.html" class="footer-link">Brand Resources</a></div>
         <div id="w-node-5181204afa54-204afa2d" class="footer-links-list"><a href="https://api.blocknet.co/#getting-started" target="_blank" class="footer-link">Getting Started Guides</a><a href="https://github.com/blocknetdx/" target="_blank" class="footer-link">GitHub</a><a href="https://api.blocknet.co" target="_blank" class="footer-link">API Docs</a><a href="https://chainz.cryptoid.info/block/" target="_blank" class="footer-link">Chainz Explorer</a><a href="https://explorer.blocknet.co" target="_blank" class="footer-link">Blocknet Explorer</a></div>
         <div id="w-node-5181204afa5b-204afa2d" class="footer-links-list"><a href="http://blockdx.net" target="_blank" class="footer-link">Block DX</a><a href="https://bittrex.com/Market/Index?MarketName=BTC-BLOCK" target="_blank" class="footer-link">Bittrex</a> <a href="https://main.southxchange.com/Market/Book/BLOCK/BTC" target="_blank" class="footer-link">SouthXchange</a><a href="https://www.finexbox.com/market/pair/BLOCK-BTC.html" target="_blank" class="footer-link">Finexbox</a><a href="https://stakecube.net/app/exchange/BLOCK_BTC" target="_blank" class="footer-link">Stakecube</a></div>
