@@ -15,10 +15,10 @@
                 <nav class="nav-sub-menu light w-dropdown-list">
                     <a href="learn-about-blocknet" class="nav-sub-menu-link w-dropdown-link"><?php _e( 'Learn', 'blocknet' ); ?></a>
                     <a href="build-with-blocknet" class="nav-sub-menu-link w-dropdown-link"><?php _e( 'Build', 'blocknet' ); ?></a>
-                    <a href="http://docs.blocknet.co" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
+                    <a href="http://docs.blocknet.org" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
                             <?php _e( 'Documentation', 'blocknet' ); ?>
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
-                    <a href="http://api.blocknet.co" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
+                    <a href="http://api.blocknet.org" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
                             <?php _e( 'API Docs', 'blocknet' ); ?>
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
                     <a href="https://github.com/blocknetdx/" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
@@ -41,7 +41,7 @@
                             <?php _e( 'Join Telegram', 'blocknet' ); ?>
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
                     <a href="contribute-to-blocknet" class="nav-sub-menu-link w-dropdown-link"><?php _e( 'Contribute', 'blocknet' ); ?></a>
-                    <a href="http://forum.blocknet.co" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
+                    <a href="http://forum.blocknet.org" target="_blank" class="nav-sub-menu-link-external w-inline-block"> <div class="nav-sub-link">
                             <?php _e( 'Proposal Forum', 'blocknet' ); ?>
                         </div><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/nav-external-link-dark.svg" alt="" class="icon-external"></a>
                 </nav>
